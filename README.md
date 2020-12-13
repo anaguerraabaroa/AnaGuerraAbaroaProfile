@@ -10,27 +10,12 @@ Frontend Junior Developer || Javascript & React || HTML5 & CSS3 (SASS) || Git & 
 
 ### <**Competences & Skills**/>
 
-<span align="left">
-<img src = "https://icon-icons.com/icons2/512/PNG/32/html5-01_icon-icons.com_50875.png">  HTML5 ||
-<img src = "https://icon-icons.com/icons2/512/PNG/32/css3-01_icon-icons.com_50918.png">  CSS3 ||
-<img src="https://icon-icons.com/icons2/2389/PNG/32/sass_alt_logo_icon_144910.png">  SASS ||
-<img src = "https://icon-icons.com/icons2/2389/PNG/32/bootstrap_logo_icon_145442.png">  Bootstrap ||
-<img src="https://icon-icons.com/icons2/2248/PNG/32/language_javascript_icon_135455.png">  JavaScript ||
-<img src="https://icon-icons.com/icons2/2622/PNG/32/brand_react_icon_158742.png">  React ||
-<img src="https://icon-icons.com/icons2/2148/PNG/32/vscode_icon_131899.png">  VSCode ||
-<img src="https://icon-icons.com/icons2/512/PNG/32/vc-git_icon-icons.com_50729.png">  GIT ||
-<img src="https://icon-icons.com/icons2/509/PNG/32/Github_icon-icons.com_49946.png">  GitHub ||
-<img src="https://icon-icons.com/icons2/2389/PNG/32/gulp_logo_icon_145213.png">  GULP ||
-<img src = "https://icon-icons.com/icons2/2148/PNG/32/npm_old_icon_132179.png">  NPM ||
-<img src = "https://icon-icons.com/icons2/2644/PNG/32/kanban_fill_icon_159491.png">  Kanban ||
-<img src = "https://icon-icons.com/icons2/2367/PNG/32/slack_logo_icon_143511.png">  Slack ||
-<img src="https://icon-icons.com/icons2/2389/PNG/32/zoom_logo_icon_144706.png">  Zoom ||
-<img src = "https://icon-icons.com/icons2/2622/PNG/32/brand_scrum_icon_158716.png">  Agile/SCRUM ||
-<img src="https://icon-icons.com/icons2/37/PNG/32/headphones_3762.png">  Teleworking ||
-<img src="https://icon-icons.com/icons2/2387/PNG/32/meetings_meeting_table_people_work_icon_144587.png">  Teamwork ||
-<img src="https://icon-icons.com/icons2/37/PNG/32/configuration_3620.png">  Planning ||
-<img src="https://icon-icons.com/icons2/2249/PNG/32/briefcase_clock_outline_icon_139866.png">  Perseverance ||
-</span>
+| Competences & Skills |  |  |  |  |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src = "https://icon-icons.com/icons2/512/PNG/32/html5-01_icon-icons.com_50875.png">  HTML5  |  <img src = "https://icon-icons.com/icons2/512/PNG/32/css3-01_icon-icons.com_50918.png"> CSS3 | <img src="https://icon-icons.com/icons2/2389/PNG/32/sass_alt_logo_icon_144910.png">  SASS | <img src = "https://icon-icons.com/icons2/2389/PNG/32/bootstrap_logo_icon_145442.png">  Bootstrap | <img src="https://icon-icons.com/icons2/2248/PNG/32/language_javascript_icon_135455.png">  JavaScript |
+| <img src="https://icon-icons.com/icons2/2622/PNG/32/brand_react_icon_158742.png">  React |  <img src="https://icon-icons.com/icons2/2148/PNG/32/vscode_icon_131899.png">  VSCode | <img src="https://icon-icons.com/icons2/512/PNG/32/vc-git_icon-icons.com_50729.png">  GIT | <img src="https://icon-icons.com/icons2/509/PNG/32/Github_icon-icons.com_49946.png">  GitHub | <img src="https://icon-icons.com/icons2/2389/PNG/32/gulp_logo_icon_145213.png">  GULP |
+| <img src = "https://icon-icons.com/icons2/2148/PNG/32/npm_old_icon_132179.png">  NPM |  <img src = "https://icon-icons.com/icons2/2644/PNG/32/kanban_fill_icon_159491.png">  Kanban | <img src = "https://icon-icons.com/icons2/2367/PNG/32/slack_logo_icon_143511.png">  Slack | <img src="https://icon-icons.com/icons2/2389/PNG/32/zoom_logo_icon_144706.png">  Zoom | <img src = "https://icon-icons.com/icons2/2622/PNG/32/brand_scrum_icon_158716.png">  Agile/SCRUM |
+| <img src="https://icon-icons.com/icons2/37/PNG/32/headphones_3762.png">  Teleworking |  <img src="https://icon-icons.com/icons2/2387/PNG/32/meetings_meeting_table_people_work_icon_144587.png">  Teamwork | <img src="https://icon-icons.com/icons2/37/PNG/32/configuration_3620.png">  Planning | <img src="https://icon-icons.com/icons2/2249/PNG/32/briefcase_clock_outline_icon_139866.png">  Perseverance | <img src = "https://icon-icons.com/icons2/656/PNG/32/share_analytics_file_data_online_web_icon-icons.com_59981.png">  Trust |
 
 ### <**Get in touch**/>
 
