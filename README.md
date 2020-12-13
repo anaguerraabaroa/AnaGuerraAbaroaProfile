@@ -8,14 +8,26 @@ Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱
 
 Frontend Junior Developer || Javascript & React || HTML5 & CSS3 (SASS) || Git & GitHub || Agile & SCRUM || Third Parties APIs Integration Product Owner || Adalaber
 
-### <**Competences & Skills**/>
+### <**Tech & Tools**/>
 
-| Competences & Skills |  |  |  |  |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src = "https://icon-icons.com/icons2/1298/PNG/32/2333390-html-html5-internet-website_85590.png"><br>HTML5 |  <img src = "https://icon-icons.com/icons2/512/PNG/32/css3-02_icon-icons.com_50917.png"><br>CSS3 | <img src="https://icon-icons.com/icons2/2389/PNG/32/sass_alt_logo_icon_144910.png"><br>SASS | <img src = "https://icon-icons.com/icons2/2389/PNG/32/bootstrap_logo_icon_145442.png"><br>Bootstrap | <img src="https://icon-icons.com/icons2/2248/PNG/32/language_javascript_icon_135455.png"><br>JavaScript |
-| <img src="https://icon-icons.com/icons2/2622/PNG/32/brand_react_icon_158742.png"><br>React |  <img src="https://icon-icons.com/icons2/2148/PNG/32/vscode_icon_131899.png"><br> VSCode | <img src="https://icon-icons.com/icons2/512/PNG/32/vc-git_icon-icons.com_50729.png"><br>GIT | <img src="https://icon-icons.com/icons2/509/PNG/32/Github_icon-icons.com_49946.png"><br>GitHub | <img src="https://icon-icons.com/icons2/2389/PNG/32/gulp_logo_icon_145213.png"><br>GULP |
-| <img src = "https://icon-icons.com/icons2/2148/PNG/32/npm_old_icon_132179.png"><br>NPM |  <img src = "https://icon-icons.com/icons2/2644/PNG/32/kanban_fill_icon_159491.png"><br>Kanban | <img src = "https://icon-icons.com/icons2/2367/PNG/32/slack_logo_icon_143511.png"><br>Slack | <img src="https://icon-icons.com/icons2/2389/PNG/32/zoom_logo_icon_144706.png"><br>Zoom | <img src = "https://icon-icons.com/icons2/2622/PNG/32/brand_scrum_icon_158716.png"><br>Agile/SCRUM |
-| <img src="https://icon-icons.com/icons2/37/PNG/32/headphones_3762.png"><br>Teleworking |  <img src="https://icon-icons.com/icons2/2387/PNG/32/meetings_meeting_table_people_work_icon_144587.png"><br>Teamwork | <img src="https://icon-icons.com/icons2/37/PNG/32/configuration_3620.png"><br>Planning | <img src="https://icon-icons.com/icons2/2249/PNG/32/briefcase_clock_outline_icon_139866.png"><br>Perseverance | <img src = "https://icon-icons.com/icons2/656/PNG/32/share_analytics_file_data_online_web_icon-icons.com_59981.png"><br>Trust |
+| Tech & Tools |  |  |  |
+| :---: | :---: | :---: | :---: |
+| <img src = "https://icon-icons.com/icons2/1298/PNG/32/2333390-html-html5-internet-website_85590.png"><br>HTML5 |  <img src="https://icon-icons.com/icons2/2148/PNG/32/vscode_icon_131899.png"><br> VSCode | <img src="https://icon-icons.com/icons2/509/PNG/32/Github_icon-icons.com_49946.png"><br>GitHub | <img src = "https://icon-icons.com/icons2/2622/PNG/32/brand_scrum_icon_158716.png"><br>Agile/SCRUM |
+| <img src = "https://icon-icons.com/icons2/512/PNG/32/css3-02_icon-icons.com_50917.png"><br>CSS3 | <img src="https://icon-icons.com/icons2/2389/PNG/32/sass_alt_logo_icon_144910.png"><br>SASS | <img src="https://icon-icons.com/icons2/512/PNG/32/vc-git_icon-icons.com_50729.png"><br>GIT | <img src = "https://icon-icons.com/icons2/2644/PNG/32/kanban_fill_icon_159491.png"><br>Kanban | <img src="https://icon-icons.com/icons2/37/PNG/32/headphones_3762.png"><br>Teleworking |
+| <img src = "https://icon-icons.com/icons2/2389/PNG/32/bootstrap_logo_icon_145442.png"><br>Bootstrap | <img src="https://icon-icons.com/icons2/2389/PNG/32/gulp_logo_icon_145213.png"><br>GULP | <img src="https://icon-icons.com/icons2/2387/PNG/32/meetings_meeting_table_people_work_icon_144587.png"><br>Teamwork |
+| <img src="https://icon-icons.com/icons2/2248/PNG/32/language_javascript_icon_135455.png"><br>JavaScript |  | <img src = "https://icon-icons.com/icons2/2148/PNG/32/npm_old_icon_132179.png"><br>NPM |  <img src="https://icon-icons.com/icons2/37/PNG/32/configuration_3620.png"><br>Planning |
+| <img src="https://icon-icons.com/icons2/2622/PNG/32/brand_react_icon_158742.png"><br>React |  <img src = "https://icon-icons.com/icons2/2367/PNG/32/slack_logo_icon_143511.png"><br>Slack | <img src="https://icon-icons.com/icons2/2249/PNG/32/briefcase_clock_outline_icon_139866.png"><br>Perseverance |
+
+
+
+
+
+
+    |  
+|   
+|   | <img src="https://icon-icons.com/icons2/2389/PNG/32/zoom_logo_icon_144706.png"><br>Zoom | 
+| <img src = "https://icon-icons.com/icons2/656/PNG/32/share_analytics_file_data_online_web_icon-icons.com_59981.png"><br>Trust 
+
 
 ### <**Get in touch**/>
 
