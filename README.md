@@ -1,3 +1,6 @@
+![Ana Guerra Abaroa Profile](banner.jpg)
+
+
 # <Hi, I'm Ana!!/> :wave:
 
 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 and 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 have always been my greatest 𝗺𝗼𝘁𝗶𝘃𝗮𝘁𝗶𝗼𝗻 to grow professionally. 
