@@ -1,4 +1,4 @@
-### Hi, I'm Ana!! 👋
+###<Hi, I'm Ana!!/> 👋
 
 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 and 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 have always been my greatest 𝗺𝗼𝘁𝗶𝘃𝗮𝘁𝗶𝗼𝗻 to grow professionally. 
 
@@ -6,7 +6,7 @@ These concerns has led me to explore different professional sectors from 𝗲�
 
 Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗮𝗿𝘆 𝗲𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝘁𝗲𝗮𝗺𝘀 under an 𝗔𝗴𝗶𝗹𝗲/𝗦𝗰𝗿𝘂𝗺 𝗳𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 has allowed me to develop skills for 𝗽𝗹𝗮𝗻𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝘁𝗮𝘀𝗸𝘀 𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗮𝘁𝗶𝗼𝗻, initiative for 𝗱𝗲𝗰𝗶𝘀𝗶𝗼𝗻 𝗺𝗮𝗸𝗶𝗻𝗴, and 𝗰𝗼𝗻𝘀𝘁𝗮𝗻𝗰𝘆 to achieve aims.
 
-**CONTACT:**
+<**Contact**/>
 
 - :email: : ana.guerra.abaroa@gmail.com
 - 
