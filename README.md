@@ -19,9 +19,7 @@ Frontend Junior Developer || Javascript & React || HTML5 & CSS3 (SASS) || Git & 
 
 ### <**Get in touch**/>
 
-<span align="left">
-<a href="mailto:ana.guerra.abaroa@gmail.com" target="_blank"><img alt="Email" src="https://icon-icons.com/icons2/933/PNG/32/gmail-logo_icon-icons.com_72739.png"></a>
-<a href="https://www.linkedin.com/in/anaguerraabaroa/" target="_blank"><img alt="LinkedIn" src="https://icon-icons.com/icons2/1/PNG/32/sociallinkedin_member_70.png"></a>
-<a href="https://twitter.com/anaguerraabaroa/" target="_blank"><img alt="Twitter" src="https://icon-icons.com/icons2/933/PNG/32/twitter-logo-on-black-background_icon-icons.com_72503.png"></a>
-</span>
+|Contact |  |  |
+| :---: | :---: | :---: | 
+| Email<br><a href="mailto:ana.guerra.abaroa@gmail.com" target="_blank"><img alt="Email" src="https://icon-icons.com/icons2/933/PNG/32/gmail-logo_icon-icons.com_72739.png"></a>   | Linkedin<br><a href="https://www.linkedin.com/in/anaguerraabaroa/" target="_blank"><img alt="LinkedIn" src="https://icon-icons.com/icons2/1/PNG/32/sociallinkedin_member_70.png"></a> | Twitter<br><a href="https://twitter.com/anaguerraabaroa/" target="_blank"><img alt="Twitter" src="https://icon-icons.com/icons2/933/PNG/32/twitter-logo-on-black-background_icon-icons.com_72503.png"></a> |
 
