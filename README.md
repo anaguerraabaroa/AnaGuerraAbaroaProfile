@@ -8,7 +8,7 @@ Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱
 
 Frontend Junior Developer || Javascript & React || HTML5 & CSS3 (SASS) || Git & GitHub || Agile & SCRUM || Third Parties APIs Integration Product Owner || Adalaber
 
-### <**Technologies**/>
+### <**Competences & Skills**/>
 
 <span align="left">
 <img src = "https://icon-icons.com/icons2/512/PNG/32/html5-01_icon-icons.com_50875.png">  HTML5 ||
@@ -21,15 +21,22 @@ Frontend Junior Developer || Javascript & React || HTML5 & CSS3 (SASS) || Git & 
 <img src="https://icon-icons.com/icons2/512/PNG/32/vc-git_icon-icons.com_50729.png">  GIT ||
 <img src="https://icon-icons.com/icons2/509/PNG/32/Github_icon-icons.com_49946.png">  GitHub ||
 <img src="https://icon-icons.com/icons2/2389/PNG/32/gulp_logo_icon_145213.png">  GULP ||
-<img src = "https://icon-icons.com/icons2/2148/PNG/32/npm_old_icon_132179.png">  NPM 
+<img src = "https://icon-icons.com/icons2/2148/PNG/32/npm_old_icon_132179.png">  NPM ||
+<img src = "https://icon-icons.com/icons2/2644/PNG/32/kanban_fill_icon_159491.png">  Kanban ||
+<img src = "https://icon-icons.com/icons2/2367/PNG/32/slack_logo_icon_143511.png">  Slack ||
+<img src="https://icon-icons.com/icons2/2389/PNG/32/zoom_logo_icon_144706.png">  Zoom ||
+<img src = "https://icon-icons.com/icons2/2622/PNG/32/brand_scrum_icon_158716.png">  Agile/SCRUM ||
+<img src="https://icon-icons.com/icons2/37/PNG/32/headphones_3762.png">  Teleworking ||
+<img src="https://icon-icons.com/icons2/2387/PNG/32/meetings_meeting_table_people_work_icon_144587.png">  Teamwork ||
+<img src="https://icon-icons.com/icons2/37/PNG/32/configuration_3620.png">  Planning ||
+<img src="https://icon-icons.com/icons2/2249/PNG/32/briefcase_clock_outline_icon_139866.png">  Perseverance ||
 </span>
 
 ### <**Get in touch**/>
 
 <span align="left">
-<a href="mailto:ana.guerra.abaroa@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/anaguerraabaroa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&logoColor=white"></a>
-
-![Twitter Follow](https://img.shields.io/twitter/follow/anaguerraabaroa?logoColor=%007ACC&style=social)
+<a href="mailto:ana.guerra.abaroa@gmail.com" target="_blank"><img alt="Email" src="https://icon-icons.com/icons2/933/PNG/32/gmail-logo_icon-icons.com_72739.png"></a>
+<a href="https://www.linkedin.com/in/anaguerraabaroa/" target="_blank"><img alt="LinkedIn" src="https://icon-icons.com/icons2/1/PNG/32/sociallinkedin_member_70.png"></a>
+<a href="https://twitter.com/anaguerraabaroa/" target="_blank"><img alt="Twitter" src="https://icon-icons.com/icons2/933/PNG/32/twitter-logo-on-black-background_icon-icons.com_72503.png"></a>
 </span>
 
