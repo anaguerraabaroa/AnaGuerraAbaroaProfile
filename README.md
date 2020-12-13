@@ -21,9 +21,9 @@ Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱
 
 ## <**Interests**/>
 
-|Frontend | Design | Photography | Music | Cats | Organization |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|  <img src = "https://icon-icons.com/icons2/936/PNG/32/open-laptop-computer_icon-icons.com_73474.png"> |  <img src = "https://icon-icons.com/icons2/2334/PNG/32/mouse_pencil_graphic_design_draw_icon_142330.png"> |  <img src = "https://icon-icons.com/icons2/37/PNG/32/slr_camera_application_slr_3037.png"> |  <img src = "https://icon-icons.com/icons2/37/PNG/32/note_audio_music_3097.png"> |  <img src = "https://icon-icons.com/icons2/67/PNG/32/cat_13469.png"> | <img src = "https://icon-icons.com/icons2/37/PNG/32/purchaseorderapplication_compra_orde_4474.png"> |
+|Frontend | Design | Photography | Travel | Music | Cats | Organization |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  <img src = "https://icon-icons.com/icons2/936/PNG/32/open-laptop-computer_icon-icons.com_73474.png"> |  <img src = "https://icon-icons.com/icons2/2334/PNG/32/mouse_pencil_graphic_design_draw_icon_142330.png"> |  <img src = "https://icon-icons.com/icons2/37/PNG/32/slr_camera_application_slr_3037.png"> | <img src = "https://icon-icons.com/icons2/1862/PNG/32/planetearth_118372.png"> |  <img src = "https://icon-icons.com/icons2/37/PNG/32/note_audio_music_3097.png"> |  <img src = "https://icon-icons.com/icons2/67/PNG/32/cat_13469.png"> | <img src = "https://icon-icons.com/icons2/37/PNG/32/purchaseorderapplication_compra_orde_4474.png"> |
 
 ## <**Get in touch**/>
 
