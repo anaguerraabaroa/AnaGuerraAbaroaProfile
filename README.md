@@ -8,7 +8,7 @@ Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱
 
 ## <**Competences & Skills**/>
 
-| Tech | Control | Tools | SoftSkills |
+| Tech | Control | Tools | Soft Skills |
 | :---: | :---: | :---: | :---: |
 | <img src = "https://icon-icons.com/icons2/1298/PNG/32/2333390-html-html5-internet-website_85590.png"><br>HTML5 |  <img src="https://icon-icons.com/icons2/2148/PNG/32/vscode_icon_131899.png"><br> VSCode | <img src="https://icon-icons.com/icons2/509/PNG/32/Github_icon-icons.com_49946.png"><br>GitHub | <img src="https://icon-icons.com/icons2/37/PNG/32/headphones_3762.png"><br>Teleworking |
 | <img src = "https://icon-icons.com/icons2/512/PNG/32/css3-02_icon-icons.com_50917.png"><br>CSS3 | <img src="https://icon-icons.com/icons2/2389/PNG/32/sass_alt_logo_icon_144910.png"><br>SASS | <img src = "https://icon-icons.com/icons2/2644/PNG/32/kanban_fill_icon_159491.png"><br>Kanban | <img src="https://icon-icons.com/icons2/2387/PNG/32/meetings_meeting_table_people_work_icon_144587.png"><br>Teamwork | 
