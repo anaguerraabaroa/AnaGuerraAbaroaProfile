@@ -12,8 +12,7 @@ Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱
 
 <a href="mailto:ana.guerra.abaroa@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white"></a>
 
-![Twitter Follow](https://twitter.com/anaguerraabaroa)
-
+![Twitter Follow](https://img.shields.io/twitter/follow/anaguerraabaroa_?logoColor=%007ACC&style=social)
 
 
 
