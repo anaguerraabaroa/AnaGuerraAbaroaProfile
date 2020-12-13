@@ -11,14 +11,17 @@ Frontend Junior Developer || Javascript & React || HTML5 & CSS3 (SASS) || Git & 
 ### <**Technologies**/>
 
 <span align="left">
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> 
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"> 
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> 
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> 
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> 
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src = "https://icon-icons.com/icons2/512/PNG/32/html5-01_icon-icons.com_50875.png"> HTML5
+<img src = "https://icon-icons.com/icons2/512/PNG/32/css3-01_icon-icons.com_50918.png"> CSS3
+<img src="https://icon-icons.com/icons2/2389/PNG/32/sass_alt_logo_icon_144910.png"> SASS
+<img src = "https://icon-icons.com/icons2/2389/PNG/32/bootstrap_logo_icon_145442.png"> Bootstrap
+<img src="https://icon-icons.com/icons2/2248/PNG/32/language_javascript_icon_135455.png"> JavaScript
+<img src="https://icon-icons.com/icons2/2622/PNG/32/brand_react_icon_158742.png"> React
+<img src="https://icon-icons.com/icons2/2148/PNG/32/vscode_icon_131899.png"> VSCode
+<img src="https://icon-icons.com/icons2/512/PNG/32/vc-git_icon-icons.com_50729.png"> GIT
+<img src="https://icon-icons.com/icons2/509/PNG/32/Github_icon-icons.com_49946.png"> GitHub
+<img src="https://icon-icons.com/icons2/2389/PNG/32/gulp_logo_icon_145213.png"> GULP
+<img src = "https://icon-icons.com/icons2/2148/PNG/32/npm_old_icon_132179.png"> NPM
 </span>
 
 ### <**Get in touch**/>
