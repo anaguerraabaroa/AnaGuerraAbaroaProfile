@@ -22,3 +22,8 @@ Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱
 | :---: | :---: | :---: | 
 | <a href="mailto:ana.guerra.abaroa@gmail.com" target="_blank"><img alt="Email" src="https://icon-icons.com/icons2/933/PNG/32/gmail-logo_icon-icons.com_72739.png"></a> | <a href="https://www.linkedin.com/in/anaguerraabaroa/" target="_blank"><img alt="LinkedIn" src="https://icon-icons.com/icons2/1/PNG/32/sociallinkedin_member_70.png"></a> | <a href="https://twitter.com/anaguerraabaroa/" target="_blank"><img alt="Twitter" src="https://icon-icons.com/icons2/933/PNG/32/twitter-logo-on-black-background_icon-icons.com_72503.png"></a> |
 
+## <**Interests**/>
+
+|Frontend | Design | Photography | Music | CatLover | OrganizationManiac |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|  <img src = "https://icon-icons.com/icons2/936/PNG/32/open-laptop-computer_icon-icons.com_73474.png"> |  <img src = "https://icon-icons.com/icons2/2334/PNG/32/mouse_pencil_graphic_design_draw_icon_142330.png"> |  <img src = "https://icon-icons.com/icons2/37/PNG/32/slr_camera_application_slr_3037.png"> |  <img src = "https://icon-icons.com/icons2/37/PNG/32/note_audio_music_3097.png"> |  <img src = "https://icon-icons.com/icons2/67/PNG/32/cat_13469.png"> | <img src = "https://icon-icons.com/icons2/37/PNG/32/purchaseorderapplication_compra_orde_4474.png"> |
