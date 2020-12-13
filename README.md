@@ -10,7 +10,7 @@ Frontend Junior Developer || Javascript & React || HTML5 & CSS3 (SASS) || Git & 
 
 ### <**Competences & Skills**/>
 
-| Competences & Skills |  |  |  |  |
+| Technologies | Tools | Competences | Skills | Abilities |
 | :---: | :---: | :---: | :---: | :---: |
 | <img src = "https://icon-icons.com/icons2/1298/PNG/32/2333390-html-html5-internet-website_85590.png">  HTML5  |  <img src = "https://icon-icons.com/icons2/512/PNG/32/css3-02_icon-icons.com_50917.png"> CSS3 | <img src="https://icon-icons.com/icons2/2389/PNG/32/sass_alt_logo_icon_144910.png">  SASS | <img src = "https://icon-icons.com/icons2/2389/PNG/32/bootstrap_logo_icon_145442.png">  Bootstrap | <img src="https://icon-icons.com/icons2/2248/PNG/32/language_javascript_icon_135455.png">  JavaScript |
 | <img src="https://icon-icons.com/icons2/2622/PNG/32/brand_react_icon_158742.png">  React |  <img src="https://icon-icons.com/icons2/2148/PNG/32/vscode_icon_131899.png">  VSCode | <img src="https://icon-icons.com/icons2/512/PNG/32/vc-git_icon-icons.com_50729.png">  GIT | <img src="https://icon-icons.com/icons2/509/PNG/32/Github_icon-icons.com_49946.png">  GitHub | <img src="https://icon-icons.com/icons2/2389/PNG/32/gulp_logo_icon_145213.png">  GULP |
