@@ -16,14 +16,14 @@ Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱
 | <img src="https://icon-icons.com/icons2/2248/PNG/32/language_javascript_icon_135455.png"><br>JavaScript | <img src="https://icon-icons.com/icons2/2389/PNG/32/gulp_logo_icon_145213.png"><br>GULP | <img src="https://icon-icons.com/icons2/2389/PNG/32/zoom_logo_icon_144706.png"><br>Zoom | <img src="https://icon-icons.com/icons2/2249/PNG/32/briefcase_clock_outline_icon_139866.png"><br>Perseverance  |
 | <img src="https://icon-icons.com/icons2/2622/PNG/32/brand_react_icon_158742.png"><br>React |  <img src = "https://icon-icons.com/icons2/2148/PNG/32/npm_old_icon_132179.png"><br>NPM | <img src = "https://icon-icons.com/icons2/2622/PNG/32/brand_scrum_icon_158716.png"><br>Agile/SCRUM | <img src = "https://icon-icons.com/icons2/656/PNG/32/share_analytics_file_data_online_web_icon-icons.com_59981.png"><br>Trust | 
 
-## <**Get in touch**/>
-
-|Email | Linkedin | Twitter |
-| :---: | :---: | :---: | 
-| <a href="mailto:ana.guerra.abaroa@gmail.com" target="_blank"><img alt="Email" src="https://icon-icons.com/icons2/933/PNG/32/gmail-logo_icon-icons.com_72739.png"></a> | <a href="https://www.linkedin.com/in/anaguerraabaroa/" target="_blank"><img alt="LinkedIn" src="https://icon-icons.com/icons2/1/PNG/32/sociallinkedin_member_70.png"></a> | <a href="https://twitter.com/anaguerraabaroa/" target="_blank"><img alt="Twitter" src="https://icon-icons.com/icons2/933/PNG/32/twitter-logo-on-black-background_icon-icons.com_72503.png"></a> |
-
 ## <**Interests**/>
 
 |Frontend | Design | Photography | Music | CatLover | OrganizationManiac |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |  <img src = "https://icon-icons.com/icons2/936/PNG/32/open-laptop-computer_icon-icons.com_73474.png"> |  <img src = "https://icon-icons.com/icons2/2334/PNG/32/mouse_pencil_graphic_design_draw_icon_142330.png"> |  <img src = "https://icon-icons.com/icons2/37/PNG/32/slr_camera_application_slr_3037.png"> |  <img src = "https://icon-icons.com/icons2/37/PNG/32/note_audio_music_3097.png"> |  <img src = "https://icon-icons.com/icons2/67/PNG/32/cat_13469.png"> | <img src = "https://icon-icons.com/icons2/37/PNG/32/purchaseorderapplication_compra_orde_4474.png"> |
+
+## <**Get in touch**/>
+
+|Email | Linkedin | Twitter |
+| :---: | :---: | :---: | 
+| <a href="mailto:ana.guerra.abaroa@gmail.com" target="_blank"><img alt="Email" src="https://icon-icons.com/icons2/933/PNG/32/gmail-logo_icon-icons.com_72739.png"></a> | <a href="https://www.linkedin.com/in/anaguerraabaroa/" target="_blank"><img alt="LinkedIn" src="https://icon-icons.com/icons2/1/PNG/32/sociallinkedin_member_70.png"></a> | <a href="https://twitter.com/anaguerraabaroa/" target="_blank"><img alt="Twitter" src="https://icon-icons.com/icons2/933/PNG/32/twitter-logo-on-black-background_icon-icons.com_72503.png"></a> |
