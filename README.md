@@ -25,6 +25,9 @@ Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱
 | <a href="https://www.ecma-international.org/ecma-262/"><img title="JavaScript" alt="JavaScript" src="https://icon-icons.com/icons2/2248/PNG/32/language_javascript_icon_135455.png"></a><br>JavaScript | <a href="https://gulpjs.com/"><img title="Gulp" alt="Gulp" src="https://icon-icons.com/icons2/2389/PNG/32/gulp_logo_icon_145213.png"></a><br>Gulp |<a href="https://zoom.us/"><img title="Zoom" alt="Zoom" src="https://icon-icons.com/icons2/2389/PNG/32/zoom_logo_icon_144706.png"></a><br>Zoom |<a href="https://github.com/anaguerraabaroa"><img title="Teleworking" alt="Teleworking" src="https://icon-icons.com/icons2/37/PNG/32/headphones_3762.png"></a><br>Teleworking|
 | <a href="https://es.reactjs.org/"><img title="React" alt="React" src="https://icon-icons.com/icons2/2622/PNG/32/brand_react_icon_158742.png"></a><br>React |  <a href="https://www.npmjs.com/"><img title="Npm" alt="Npm" src="https://icon-icons.com/icons2/2148/PNG/32/npm_old_icon_132179.png"></a><br>Npm | <a href="https://agilemanifesto.org/iso/es/manifesto.html"><img title="Agile/Scrum" alt="Agile/Scrum" src="https://icon-icons.com/icons2/2622/PNG/32/brand_scrum_icon_158716.png"></a><br>Agile/SCRUM | <a href="https://github.com/anaguerraabaroa"><img title="Trust" alt="Trust" src="https://icon-icons.com/icons2/656/PNG/32/share_analytics_file_data_online_web_icon-icons.com_59981.png"></a><br>Trust | 
 
+## <**Projects**/>
+![Projects Timeline](timeline.PNG)
+
 ## <**Interests**/>
 
 |Frontend | Design | Photography | Travel | Music | Organization | Cats |
