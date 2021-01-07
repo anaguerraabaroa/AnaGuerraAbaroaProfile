@@ -9,6 +9,17 @@ These concerns has led me to explore different profesional sectors such as 𝗲�
 
 Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗮𝗿𝘆 𝗲𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝘁𝗲𝗮𝗺𝘀 under an 𝗮𝗴𝗶𝗹𝗲/𝘀𝗰𝗿𝘂𝗺 𝗳𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 has provided me with an opportunity to learn about 𝗽𝗹𝗮𝗻𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝘁𝗮𝘀𝗸𝘀 𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗮𝘁𝗶𝗼𝗻,  𝗱𝗲𝗰𝗶𝘀𝗶𝗼𝗻 𝗺𝗮𝗸𝗶𝗻𝗴, and 𝗽𝗲𝗿𝘀𝗲𝘃𝗲𝗿𝗮𝗻𝗰𝗲 to achieve goals.
 
+## <**Projects**/>
+* [AdalabLandingPage](https://github.com/anaguerraabaroa/AdalabLandingPage)
+* [AnonymousProxyLandingPage](https://github.com/anaguerraabaroa/AnonymousProxyLandingPage)
+* [Codeflix](https://github.com/anaguerraabaroa/Codeflix)
+* [RandomNumber](https://github.com/anaguerraabaroa/RandomNumber)
+* [CodeflixSearchEngine](https://github.com/anaguerraabaroa/CodeflixSearchEngine)
+* [ProfileCards](https://github.com/anaguerraabaroa/ProfileCards)
+* [Pokemon](https://github.com/anaguerraabaroa/Pokemon)
+* [RickandMortySearchEngine](https://github.com/anaguerraabaroa/RickandMortySearchEngine)
+* [ProfileCardsRefactor](https://github.com/anaguerraabaroa/ProfileCardsRefactor)
+
 ## <**Get in touch**/>
 
 |Email | Linkedin | Twitter |
@@ -20,17 +31,6 @@ Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱
 | HTML5 | CSS3 | SASS | JavaScript | React | VSCode | Github | Agile | Kanban | Slack | Planning | TeamWork | Perseverance |  
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |<a href="https://html.spec.whatwg.org/"><img title="HTML" alt="HTML" src="https://icon-icons.com/icons2/1298/PNG/32/2333390-html-html5-internet-website_85590.png"></a> | <a href="https://www.w3.org/Style/CSS/"><img title="CSS" alt="CSS" src="https://icon-icons.com/icons2/512/PNG/32/css3-02_icon-icons.com_50917.png"></a> | <a href="https://sass-lang.com/"><img title="SASS" alt="SASS" src="https://icon-icons.com/icons2/2389/PNG/32/sass_alt_logo_icon_144910.png"></a> | <a href="https://www.ecma-international.org/ecma-262/"><img title="JavaScript" alt="JavaScript" src="https://icon-icons.com/icons2/2248/PNG/32/language_javascript_icon_135455.png"></a> | <a href="https://es.reactjs.org/"><img title="React" alt="React" src="https://icon-icons.com/icons2/2622/PNG/32/brand_react_icon_158742.png"></a> | <a href="https://code.visualstudio.com/"><img title="VSCode" alt="VSCode" src="https://icon-icons.com/icons2/2148/PNG/32/vscode_icon_131899.png"></a> | <a href="https://github.com/"><img title="GitHub" alt="GitHub" src="https://icon-icons.com/icons2/509/PNG/32/Github_icon-icons.com_49946.png"></a> | <a href="https://agilemanifesto.org/iso/es/manifesto.html"><img title="Agile/Scrum" alt="Agile/Scrum" src="https://icon-icons.com/icons2/2622/PNG/32/brand_scrum_icon_158716.png"></a><br> | <a href="https://kanbantool.com/kanban-library/introduction"><img title="Kanban" alt="Kanban" src="https://icon-icons.com/icons2/2644/PNG/32/kanban_fill_icon_159491.png"></a>|  <a href="https://slack.com/intl/es-es/"><img title="Slack" alt="Slack" src="https://icon-icons.com/icons2/2367/PNG/32/slack_logo_icon_143511.png"></a> | <a href=""><img title="Planning" alt="Planning" src="https://icon-icons.com/icons2/37/PNG/32/configuration_3620.png"></a> |  <a href="https://github.com/anaguerraabaroa"><img title="Teamwork" alt="Teamwork" src="https://icon-icons.com/icons2/2387/PNG/32/meetings_meeting_table_people_work_icon_144587.png"></a> |  <a href="https://github.com/anaguerraabaroa"><img title="Perseverance" alt="Perseverance" src="https://icon-icons.com/icons2/2249/PNG/32/briefcase_clock_outline_icon_139866.png"></a> |
-
-## <**Projects**/>
-* [AdalabLandingPage](https://github.com/anaguerraabaroa/AdalabLandingPage)
-* [AnonymousProxyLandingPage](https://github.com/anaguerraabaroa/AnonymousProxyLandingPage)
-* [Codeflix](https://github.com/anaguerraabaroa/Codeflix)
-* [RandomNumber](https://github.com/anaguerraabaroa/RandomNumber)
-* [CodeflixSearchEngine](https://github.com/anaguerraabaroa/CodeflixSearchEngine)
-* [ProfileCards](https://github.com/anaguerraabaroa/ProfileCards)
-* [Pokemon](https://github.com/anaguerraabaroa/Pokemon)
-* [RickandMortySearchEngine](https://github.com/anaguerraabaroa/RickandMortySearchEngine)
-* [ProfileCardsRefactor](https://github.com/anaguerraabaroa/ProfileCardsRefactor)
 
 ## <**Interests**/>
 
