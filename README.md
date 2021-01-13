@@ -10,23 +10,23 @@ These concerns has led me to explore different profesional sectors such as 𝗲�
 Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗮𝗿𝘆 𝗲𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝘁𝗲𝗮𝗺𝘀 under an 𝗮𝗴𝗶𝗹𝗲/𝘀𝗰𝗿𝘂𝗺 𝗳𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 has provided me with an opportunity to learn about 𝗽𝗹𝗮𝗻𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝘁𝗮𝘀𝗸𝘀 𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗮𝘁𝗶𝗼𝗻,  𝗱𝗲𝗰𝗶𝘀𝗶𝗼𝗻 𝗺𝗮𝗸𝗶𝗻𝗴, and 𝗽𝗲𝗿𝘀𝗲𝘃𝗲𝗿𝗮𝗻𝗰𝗲 to achieve goals.
 
 ## <**Projects**/>
-:red_circle: [AdalabLandingPage](https://github.com/anaguerraabaroa/AdalabLandingPage) 
+* [AdalabLandingPage](https://github.com/anaguerraabaroa/AdalabLandingPage) 
 
-:orange_circle: [AnonymousProxyLandingPage](https://github.com/anaguerraabaroa/AnonymousProxyLandingPage)
+* [AnonymousProxyLandingPage](https://github.com/anaguerraabaroa/AnonymousProxyLandingPage)
 
-:yellow_circle: [Codeflix](https://github.com/anaguerraabaroa/Codeflix)
+* [Codeflix](https://github.com/anaguerraabaroa/Codeflix)
 
-:green_circle: [RandomNumber](https://github.com/anaguerraabaroa/RandomNumber)
+* [RandomNumber](https://github.com/anaguerraabaroa/RandomNumber)
 
-:large_blue_circle: [CodeflixSearchEngine](https://github.com/anaguerraabaroa/CodeflixSearchEngine)
+* [CodeflixSearchEngine](https://github.com/anaguerraabaroa/CodeflixSearchEngine)
 
-:red_circle: [ProfileCards](https://github.com/anaguerraabaroa/ProfileCards)
+* [ProfileCards](https://github.com/anaguerraabaroa/ProfileCards)
 
-:orange_circle: [Pokemon](https://github.com/anaguerraabaroa/Pokemon)
+* [Pokemon](https://github.com/anaguerraabaroa/Pokemon)
 
-:yellow_circle: [RickandMortySearchEngine](https://github.com/anaguerraabaroa/RickandMortySearchEngine)
+* [RickandMortySearchEngine](https://github.com/anaguerraabaroa/RickandMortySearchEngine)
 
-:green_circle: [ProfileCardsRefactor](https://github.com/anaguerraabaroa/ProfileCardsRefactor)
+* [ProfileCardsRefactor](https://github.com/anaguerraabaroa/ProfileCardsRefactor)
 
 ## <**Get in touch**/>
 
