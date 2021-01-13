@@ -11,21 +11,13 @@ Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱
 
 ## <**Projects**/>
 * [AdalabLandingPage](https://github.com/anaguerraabaroa/AdalabLandingPage) 
-
 * [AnonymousProxyLandingPage](https://github.com/anaguerraabaroa/AnonymousProxyLandingPage)
-
 * [Codeflix](https://github.com/anaguerraabaroa/Codeflix)
-
 * [RandomNumber](https://github.com/anaguerraabaroa/RandomNumber)
-
 * [CodeflixSearchEngine](https://github.com/anaguerraabaroa/CodeflixSearchEngine)
-
 * [ProfileCards](https://github.com/anaguerraabaroa/ProfileCards)
-
 * [Pokemon](https://github.com/anaguerraabaroa/Pokemon)
-
 * [RickandMortySearchEngine](https://github.com/anaguerraabaroa/RickandMortySearchEngine)
-
 * [ProfileCardsRefactor](https://github.com/anaguerraabaroa/ProfileCardsRefactor)
 
 ## <**Get in touch**/>
