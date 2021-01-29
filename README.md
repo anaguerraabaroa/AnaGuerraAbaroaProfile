@@ -47,4 +47,6 @@ Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱
 
 ## <**Get in touch**/>
 
-<a href="mailto:ana.guerra.abaroa@gmail.com"><img title="Email" alt="Email" src="https://icon-icons.com/icons2/933/PNG/32/gmail-logo_icon-icons.com_72739.png"></a>   ![Red](./image/red.JPG)   <a href="https://www.linkedin.com/in/anaguerraabaroa/"><img title="Linkedin" alt="Linkedin" src="https://icon-icons.com/icons2/1/PNG/32/sociallinkedin_member_70.png"></a>   ![Orange](./image/orange.JPG)   <a href="https://twitter.com/anaguerraabaroa/"><img title="Twitter" alt="Twitter" src="https://icon-icons.com/icons2/933/PNG/32/twitter-logo-on-black-background_icon-icons.com_72503.png"></a>
+[<img src = "https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white">](mailto:ana.guerra.abaroa@gmail.com)
+[<img src = "https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/anaguerraabaroa/)
+[<img src = "https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">](https://twitter.com/anaguerraabaroa/)
