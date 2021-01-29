@@ -10,9 +10,10 @@ These concerns has led me to explore different profesional sectors such as 𝗲�
 Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗮𝗿𝘆 𝗲𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝘁𝗲𝗮𝗺𝘀 under an 𝗮𝗴𝗶𝗹𝗲/𝘀𝗰𝗿𝘂𝗺 𝗳𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 has provided me with an opportunity to learn about 𝗽𝗹𝗮𝗻𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝘁𝗮𝘀𝗸𝘀 𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗮𝘁𝗶𝗼𝗻,  𝗱𝗲𝗰𝗶𝘀𝗶𝗼𝗻 𝗺𝗮𝗸𝗶𝗻𝗴, and 𝗽𝗲𝗿𝘀𝗲𝘃𝗲𝗿𝗮𝗻𝗰𝗲 to achieve goals.
 
 ## <**Projects**/>
-![Red](./image/red.JPG) [AdalabLandingPage](https://github.com/anaguerraabaroa/AdalabLandingPage) ![Red](./image/red.JPG)
-![Orange](./image/orange.JPG) [AnonymousProxyLandingPage](https://github.com/anaguerraabaroa/AnonymousProxyLandingPage) ![Orange](./image/orange.JPG)
-![Yellow](./image/yellow.JPG) [Codeflix](https://github.com/anaguerraabaroa/Codeflix) ![Yellow](./image/yellow.JPG)
+
+![Red](./image/red.JPG) [AdalabLandingPage](https://github.com/anaguerraabaroa/AdalabLandingPage)
+![Orange](./image/orange.JPG) [AnonymousProxyLandingPage](https://github.com/anaguerraabaroa/AnonymousProxyLandingPage) 
+![Yellow](./image/yellow.JPG) [Codeflix](https://github.com/anaguerraabaroa/Codeflix)
 
 ![Green](./image/green.JPG) [RandomNumber](https://github.com/anaguerraabaroa/RandomNumber)
 ![Blue](./image/blue.JPG) [CodeflixSearchEngine](https://github.com/anaguerraabaroa/CodeflixSearchEngine)
