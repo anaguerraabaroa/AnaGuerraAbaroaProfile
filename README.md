@@ -36,6 +36,7 @@ Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱
 [<img src = "https://img.shields.io/badge/-Kanban-0079BF?style=flat&logo=trello&logoColor=white">](https://kanbantool.com/kanban-library/introduction)
 [<img src = "https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white">](https://slack.com/intl/es-es/)
 [<img src = "https://img.shields.io/badge/-Scrum-0052CC?style=flat&logo=jira-software&logoColor=white">](https://agilemanifesto.org/iso/es/manifesto.html)
+[<img src = "https://img.shields.io/badge/-Planning-6264A7?style=flat&logo=jira&logoColor=white">](https://github.com/anaguerraabaroa)
 [<img src = "https://img.shields.io/badge/-Teamwork-6264A7?style=flat&logo=microsoft-teams&logoColor=white">](https://github.com/anaguerraabaroa)
 [<img src = "https://img.shields.io/badge/-Perseverance-4285F4?style=flat&logo=google-drive&logoColor=white">](https://github.com/anaguerraabaroa)
 
