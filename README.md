@@ -32,6 +32,7 @@ Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱
 [<img src = "https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">](https://es.reactjs.org/)
 [<img src = "https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white">](https://code.visualstudio.com/)
 [<img src = "https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">](https://git-scm.com/)
+
 [<img src = "https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">](https://github.com/)
 [<img src = "https://img.shields.io/badge/-Kanban-0079BF?style=flat&logo=trello&logoColor=white">](https://kanbantool.com/kanban-library/introduction)
 [<img src = "https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white">](https://slack.com/intl/es-es/)
