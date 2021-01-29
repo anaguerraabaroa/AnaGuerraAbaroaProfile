@@ -1,4 +1,4 @@
-![Ana Guerra Abaroa Profile](./image/profile_banner.jpg)
+![Ana Guerra Abaroa Profile](./images/profile_banner.jpg)
 
 
 # <Hi, I'm Ana!!/> :wave:
