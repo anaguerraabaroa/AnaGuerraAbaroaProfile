@@ -11,21 +11,15 @@ Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱
 
 ## <**Projects**/>
 ![Red](./image/red.JPG) [AdalabLandingPage](https://github.com/anaguerraabaroa/AdalabLandingPage) 
-
 ![Orange](./image/orange.JPG) [AnonymousProxyLandingPage](https://github.com/anaguerraabaroa/AnonymousProxyLandingPage)
-
 ![Yellow](./image/yellow.JPG) [Codeflix](https://github.com/anaguerraabaroa/Codeflix)
 
 ![Green](./image/green.JPG) [RandomNumber](https://github.com/anaguerraabaroa/RandomNumber)
-
 ![Blue](./image/blue.JPG) [CodeflixSearchEngine](https://github.com/anaguerraabaroa/CodeflixSearchEngine)
-
 ![Red](./image/red.JPG) [ProfileCards](https://github.com/anaguerraabaroa/ProfileCards)
 
 ![Orange](./image/orange.JPG) [Pokemon](https://github.com/anaguerraabaroa/Pokemon)
-
 ![Yellow](./image/yellow.JPG) [RickandMortySearchEngine](https://github.com/anaguerraabaroa/RickandMortySearchEngine)
-
 ![Green](./image/green.JPG) [ProfileCardsRefactor](https://github.com/anaguerraabaroa/ProfileCardsRefactor)
 
 ## <**Competences & Skills**/>
