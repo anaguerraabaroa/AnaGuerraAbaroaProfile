@@ -8,6 +8,7 @@
 These concerns has led me to explore different profesional sectors such as 𝗲𝘃𝗲𝗻𝘁 𝗺𝗮𝗻𝗮𝗴𝗺𝗲𝗻𝘁 𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀,   𝘄𝗲𝗯 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 𝗽𝗿𝗼𝗱𝘂𝗰𝘁 and 𝗱𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗶𝗺𝗽𝗿𝗼𝘃𝗲𝗺𝗲𝗻𝘁 𝗺𝗮𝗻𝗮𝗴𝗺𝗲𝗻𝘁 or 𝘁𝗵𝗶𝗿𝗱 𝗽𝗮𝗿𝘁𝗶𝗲𝘀 𝗔𝗣𝗜𝘀 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 as 𝗽𝗿𝗼𝗱𝘂𝗰𝘁 𝗼𝘄𝗻𝗲𝗿, until discover my new passion as 𝗳𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿.
 
 Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗮𝗿𝘆 𝗲𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝘁𝗲𝗮𝗺𝘀 under an 𝗮𝗴𝗶𝗹𝗲/𝘀𝗰𝗿𝘂𝗺 𝗳𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 has provided me with an opportunity to learn about 𝗽𝗹𝗮𝗻𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝘁𝗮𝘀𝗸𝘀 𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗮𝘁𝗶𝗼𝗻,  𝗱𝗲𝗰𝗶𝘀𝗶𝗼𝗻 𝗺𝗮𝗸𝗶𝗻𝗴, and 𝗽𝗲𝗿𝘀𝗲𝘃𝗲𝗿𝗮𝗻𝗰𝗲 to achieve goals.
+___
 
 ### <**Competences & Skills**/>
 
@@ -26,6 +27,7 @@ Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱
 [<img src = "https://img.shields.io/badge/-Planning-0052CC?style=flat&logo=jira&logoColor=white">](https://github.com/anaguerraabaroa)
 [<img src = "https://img.shields.io/badge/-Teamwork-6264A7?style=flat&logo=microsoft-teams&logoColor=white">](https://github.com/anaguerraabaroa)
 [<img src = "https://img.shields.io/badge/-Perseverance-4285F4?style=flat&logo=google-drive&logoColor=white">](https://github.com/anaguerraabaroa)
+___
 
 ### <**Projects**/>
 
@@ -46,10 +48,12 @@ Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱
 * [Pokemon](https://github.com/anaguerraabaroa/Pokemon)
 * [RickandMortySearchEngine](https://github.com/anaguerraabaroa/RickandMortySearchEngine)
 * [ProfileCardsRefactor](https://github.com/anaguerraabaroa/ProfileCardsRefactor)
+___
 
 ### <**Interests**/>
 
 <a href="https://github.com/anaguerraabaroa"><img title="Frontend" alt="Frontend" src="https://icon-icons.com/icons2/936/PNG/32/open-laptop-computer_icon-icons.com_73474.png"></a>      <a href="https://github.com/anaguerraabaroa"><img title="Design" alt="Design" src="https://icon-icons.com/icons2/2334/PNG/32/mouse_pencil_graphic_design_draw_icon_142330.png"></a>      <a href="https://github.com/anaguerraabaroa"><img title="Photography" alt="Photography" src="https://icon-icons.com/icons2/37/PNG/32/slr_camera_application_slr_3037.png"></a>      <a href="https://github.com/anaguerraabaroa"><img title="Travel" alt="Travel" src="https://icon-icons.com/icons2/1862/PNG/32/planetearth_118372.png"></a>      <a href="https://github.com/anaguerraabaroa"><img title="Music" alt="Music" src="https://icon-icons.com/icons2/37/PNG/32/note_audio_music_3097.png"></a>      <a href="https://github.com/anaguerraabaroa"><img title="Organization" alt="Organization" src="https://icon-icons.com/icons2/37/PNG/32/purchaseorderapplication_compra_orde_4474.png"></a>      <a href="https://github.com/anaguerraabaroa"><img title="Cats" alt="Cats" src="https://icon-icons.com/icons2/67/PNG/32/cat_13469.png"></a>
+___
 
 ### <**Get in touch**/>
 
