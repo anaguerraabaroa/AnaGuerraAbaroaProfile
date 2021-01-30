@@ -29,8 +29,6 @@ Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱
 
 ## <**Projects**/>
 
-## <**Projects**/>
-
 <a href="https://html.spec.whatwg.org/"><img title="HTML" alt="HTML" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png"></a> <a href="https://www.w3.org/Style/CSS/"><img title="CSS" alt="CSS" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png"></a> <a href="https://sass-lang.com/"><img title="SASS" alt="SASS" src="https://icon-icons.com/icons2/2108/PNG/32/sass_icon_130835.png"></a>
 
 * [AdalabLandingPage](https://github.com/anaguerraabaroa/AdalabLandingPage)
