@@ -11,23 +11,23 @@ Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱
 
 ## <**Projects**/>
 
-<a href="https://html.spec.whatwg.org/"><img title="HTML" alt="HTML" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png"></a> <a href="https://www.w3.org/Style/CSS/"><img title="CSS" alt="CSS" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png"></a> [AdalabLandingPage](https://github.com/anaguerraabaroa/AdalabLandingPage)
+<a href="https://html.spec.whatwg.org/"><img title="HTML" alt="HTML" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png"></a> <a href="https://www.w3.org/Style/CSS/"><img title="CSS" alt="CSS" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png"></a>
 
-<a href="https://html.spec.whatwg.org/"><img title="HTML" alt="HTML" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png"></a> <a href="https://www.w3.org/Style/CSS/"><img title="CSS" alt="CSS" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png"></a> [AnonymousProxyLandingPage](https://github.com/anaguerraabaroa/AnonymousProxyLandingPage) 
+* [AdalabLandingPage](https://github.com/anaguerraabaroa/AdalabLandingPage)
+* [AnonymousProxyLandingPage](https://github.com/anaguerraabaroa/AnonymousProxyLandingPage) 
+* [Codeflix](https://github.com/anaguerraabaroa/Codeflix)
 
-<a href="https://html.spec.whatwg.org/"><img title="HTML" alt="HTML" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png"></a> <a href="https://www.w3.org/Style/CSS/"><img title="CSS" alt="CSS" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png"></a> [Codeflix](https://github.com/anaguerraabaroa/Codeflix)
+<a href="https://www.ecma-international.org/ecma-262/"><img title="JavaScript" alt="JavaScript" src="https://icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png"></a> 
 
-<a href="https://www.ecma-international.org/ecma-262/"><img title="JavaScript" alt="JavaScript" src="https://icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png"></a> [RandomNumber](https://github.com/anaguerraabaroa/RandomNumber)
+* [RandomNumber](https://github.com/anaguerraabaroa/RandomNumber)
+* [CodeflixSearchEngine](https://github.com/anaguerraabaroa/CodeflixSearchEngine)
+* [ProfileCards](https://github.com/anaguerraabaroa/ProfileCards)
 
-<a href="https://www.ecma-international.org/ecma-262/"><img title="JavaScript" alt="JavaScript" src="https://icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png"></a> [CodeflixSearchEngine](https://github.com/anaguerraabaroa/CodeflixSearchEngine)
+<a href="https://es.reactjs.org/"><img title="React" alt="React" src="https://icon-icons.com/icons2/2415/PNG/32/react_original_wordmark_logo_icon_146375.png"></a> 
 
-<a href="https://www.ecma-international.org/ecma-262/"><img title="JavaScript" alt="JavaScript" src="https://icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png"></a> [ProfileCards](https://github.com/anaguerraabaroa/ProfileCards)
-
-<a href="https://es.reactjs.org/"><img title="React" alt="React" src="https://icon-icons.com/icons2/2415/PNG/32/react_original_wordmark_logo_icon_146375.png"></a> [Pokemon](https://github.com/anaguerraabaroa/Pokemon)
-
-<a href="https://es.reactjs.org/"><img title="React" alt="React" src="https://icon-icons.com/icons2/2415/PNG/32/react_original_wordmark_logo_icon_146375.png"></a> [RickandMortySearchEngine](https://github.com/anaguerraabaroa/RickandMortySearchEngine)
-
-<a href="https://es.reactjs.org/"><img title="React" alt="React" src="https://icon-icons.com/icons2/2415/PNG/32/react_original_wordmark_logo_icon_146375.png"></a> [ProfileCardsRefactor](https://github.com/anaguerraabaroa/ProfileCardsRefactor)
+* [Pokemon](https://github.com/anaguerraabaroa/Pokemon)
+* [RickandMortySearchEngine](https://github.com/anaguerraabaroa/RickandMortySearchEngine)
+* [ProfileCardsRefactor](https://github.com/anaguerraabaroa/ProfileCardsRefactor)
 
 ## <**Competences & Skills**/>
 
