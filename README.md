@@ -29,27 +29,21 @@ Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱
 
 ## <**Projects**/>
 
-[<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">](https://html.spec.whatwg.org/)
-[<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">](https://www.w3.org/Style/CSS/)
-[<img src="https://img.shields.io/badge/-SASS-cc6699?style=flat&logo=sass&logoColor=ffffff">](https://sass-lang.com/)
+## <**Projects**/>
+
+<a href="https://html.spec.whatwg.org/"><img title="HTML" alt="HTML" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png"></a> <a href="https://www.w3.org/Style/CSS/"><img title="CSS" alt="CSS" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png"></a> <a href="https://sass-lang.com/"><img title="SASS" alt="SASS" src="https://icon-icons.com/icons2/2108/PNG/32/sass_icon_130835.png"></a>
 
 * [AdalabLandingPage](https://github.com/anaguerraabaroa/AdalabLandingPage)
 * [AnonymousProxyLandingPage](https://github.com/anaguerraabaroa/AnonymousProxyLandingPage) 
 * [Codeflix](https://github.com/anaguerraabaroa/Codeflix)
 
-[<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">](https://html.spec.whatwg.org/)
-[<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">](https://www.w3.org/Style/CSS/)
-[<img src="https://img.shields.io/badge/-SASS-cc6699?style=flat&logo=sass&logoColor=ffffff">](https://sass-lang.com/)
-[<img src = "https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">](https://www.ecma-international.org/ecma-262/)
+<a href="https://html.spec.whatwg.org/"><img title="HTML" alt="HTML" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png"></a> <a href="https://www.w3.org/Style/CSS/"><img title="CSS" alt="CSS" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png"></a> <a href="https://sass-lang.com/"><img title="SASS" alt="SASS" src="https://icon-icons.com/icons2/2108/PNG/32/sass_icon_130835.png"></a> <a href="https://www.ecma-international.org/ecma-262/"><img title="JavaScript" alt="JavaScript" src="https://icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png"></a> 
 
 * [RandomNumber](https://github.com/anaguerraabaroa/RandomNumber)
 * [CodeflixSearchEngine](https://github.com/anaguerraabaroa/CodeflixSearchEngine)
 * [ProfileCards](https://github.com/anaguerraabaroa/ProfileCards)
 
-[<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">](https://html.spec.whatwg.org/)
-[<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">](https://www.w3.org/Style/CSS/)
-[<img src="https://img.shields.io/badge/-SASS-cc6699?style=flat&logo=sass&logoColor=ffffff">](https://sass-lang.com/)
-[<img src = "https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">](https://es.reactjs.org/)
+<a href="https://html.spec.whatwg.org/"><img title="HTML" alt="HTML" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png"></a> <a href="https://www.w3.org/Style/CSS/"><img title="CSS" alt="CSS" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png"></a> <a href="https://sass-lang.com/"><img title="SASS" alt="SASS" src="https://icon-icons.com/icons2/2108/PNG/32/sass_icon_130835.png"></a> <a href="https://es.reactjs.org/"><img title="React" alt="React" src="https://icon-icons.com/icons2/2415/PNG/32/react_original_wordmark_logo_icon_146375.png"></a> 
 
 * [Pokemon](https://github.com/anaguerraabaroa/Pokemon)
 * [RickandMortySearchEngine](https://github.com/anaguerraabaroa/RickandMortySearchEngine)
