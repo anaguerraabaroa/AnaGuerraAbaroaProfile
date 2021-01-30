@@ -9,6 +9,24 @@ These concerns has led me to explore different profesional sectors such as 𝗲�
 
 Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗮𝗿𝘆 𝗲𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝘁𝗲𝗮𝗺𝘀 under an 𝗮𝗴𝗶𝗹𝗲/𝘀𝗰𝗿𝘂𝗺 𝗳𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 has provided me with an opportunity to learn about 𝗽𝗹𝗮𝗻𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝘁𝗮𝘀𝗸𝘀 𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗮𝘁𝗶𝗼𝗻,  𝗱𝗲𝗰𝗶𝘀𝗶𝗼𝗻 𝗺𝗮𝗸𝗶𝗻𝗴, and 𝗽𝗲𝗿𝘀𝗲𝘃𝗲𝗿𝗮𝗻𝗰𝗲 to achieve goals.
 
+## <**Competences & Skills**/>
+
+[<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">](https://html.spec.whatwg.org/)
+[<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">](https://www.w3.org/Style/CSS/)
+[<img src="https://img.shields.io/badge/-SASS-cc6699?style=flat&logo=sass&logoColor=ffffff">](https://sass-lang.com/)
+[<img src = "https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">](https://www.ecma-international.org/ecma-262/)
+[<img src = "https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">](https://es.reactjs.org/)
+[<img src = "https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white">](https://code.visualstudio.com/)
+[<img src = "https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">](https://git-scm.com/)
+[<img src = "https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">](https://github.com/)
+
+[<img src = "https://img.shields.io/badge/-Scrum-0052CC?style=flat&logo=jira-software&logoColor=white">](https://agilemanifesto.org/iso/es/manifesto.html)
+[<img src = "https://img.shields.io/badge/-Kanban-0079BF?style=flat&logo=trello&logoColor=white">](https://kanbantool.com/kanban-library/introduction)
+[<img src = "https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white">](https://slack.com/intl/es-es/)
+[<img src = "https://img.shields.io/badge/-Planning-0052CC?style=flat&logo=jira&logoColor=white">](https://github.com/anaguerraabaroa)
+[<img src = "https://img.shields.io/badge/-Teamwork-6264A7?style=flat&logo=microsoft-teams&logoColor=white">](https://github.com/anaguerraabaroa)
+[<img src = "https://img.shields.io/badge/-Perseverance-4285F4?style=flat&logo=google-drive&logoColor=white">](https://github.com/anaguerraabaroa)
+
 ## <**Projects**/>
 
 <a href="https://html.spec.whatwg.org/"><img title="HTML" alt="HTML" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png"></a> <a href="https://www.w3.org/Style/CSS/"><img title="CSS" alt="CSS" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png"></a> <a href="https://sass-lang.com/"><img title="SASS" alt="SASS" src="https://icon-icons.com/icons2/2108/PNG/32/sass_icon_130835.png"></a>
@@ -28,24 +46,6 @@ Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱
 * [Pokemon](https://github.com/anaguerraabaroa/Pokemon)
 * [RickandMortySearchEngine](https://github.com/anaguerraabaroa/RickandMortySearchEngine)
 * [ProfileCardsRefactor](https://github.com/anaguerraabaroa/ProfileCardsRefactor)
-
-## <**Competences & Skills**/>
-
-[<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">](https://html.spec.whatwg.org/)
-[<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">](https://www.w3.org/Style/CSS/)
-[<img src="https://img.shields.io/badge/-SASS-cc6699?style=flat&logo=sass&logoColor=ffffff">](https://sass-lang.com/)
-[<img src = "https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">](https://www.ecma-international.org/ecma-262/)
-[<img src = "https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">](https://es.reactjs.org/)
-[<img src = "https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white">](https://code.visualstudio.com/)
-[<img src = "https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">](https://git-scm.com/)
-[<img src = "https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">](https://github.com/)
-
-[<img src = "https://img.shields.io/badge/-Scrum-0052CC?style=flat&logo=jira-software&logoColor=white">](https://agilemanifesto.org/iso/es/manifesto.html)
-[<img src = "https://img.shields.io/badge/-Kanban-0079BF?style=flat&logo=trello&logoColor=white">](https://kanbantool.com/kanban-library/introduction)
-[<img src = "https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white">](https://slack.com/intl/es-es/)
-[<img src = "https://img.shields.io/badge/-Planning-0052CC?style=flat&logo=jira&logoColor=white">](https://github.com/anaguerraabaroa)
-[<img src = "https://img.shields.io/badge/-Teamwork-6264A7?style=flat&logo=microsoft-teams&logoColor=white">](https://github.com/anaguerraabaroa)
-[<img src = "https://img.shields.io/badge/-Perseverance-4285F4?style=flat&logo=google-drive&logoColor=white">](https://github.com/anaguerraabaroa)
 
 ## <**Interests**/>
 
