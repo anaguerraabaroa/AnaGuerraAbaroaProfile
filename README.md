@@ -11,7 +11,7 @@ Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱
 
 A little bit more about myself: <a href="https://github.com/anaguerraabaroa"><img title="Frontend" alt="Frontend" src="https://icon-icons.com/icons2/936/PNG/32/open-laptop-computer_icon-icons.com_73474.png"></a>      <a href="https://github.com/anaguerraabaroa"><img title="Design" alt="Design" src="https://icon-icons.com/icons2/2389/PNG/32/figma_logo_icon_145280.png"></a>      <a href="https://github.com/anaguerraabaroa"><img title="Organization" alt="Organization" src="https://icon-icons.com/icons2/2644/PNG/32/kanban_fill_icon_159491.png"></a>  <a href="https://github.com/anaguerraabaroa"><img title="Photography" alt="Photography" src="https://icon-icons.com/icons2/934/PNG/32/photo-camera-black-tool_icon-icons.com_72960.png"></a>      <a href="https://github.com/anaguerraabaroa"><img title="Travel" alt="Travel" src="https://icon-icons.com/icons2/1862/PNG/32/planetearth_118372.png"></a>      <a href="https://github.com/anaguerraabaroa"><img title="Music" alt="Music" src="https://icon-icons.com/icons2/607/PNG/32/headphone-audio-tool-in-black-version_icon-icons.com_56296.png"></a>           <a href="https://github.com/anaguerraabaroa"><img title="Cats" alt="Cats" src="https://icon-icons.com/icons2/622/PNG/32/baidu-paw-logo_icon-icons.com_57182.png"></a>
 
-## <**Competences & Skills**/>
+## <**Tech Stack & Skills**/>
 
 [<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">](https://html.spec.whatwg.org/)
 [<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">](https://www.w3.org/Style/CSS/)
