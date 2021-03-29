@@ -31,16 +31,17 @@ A little bit more about myself: <a href="https://github.com/anaguerraabaroa"><im
 
 ## <**Projects**/>
 
-* [AdalabLandingPage](https://github.com/anaguerraabaroa/AdalabLandingPage)
-* [AnonymousProxyLandingPage](https://github.com/anaguerraabaroa/AnonymousProxyLandingPage) 
-* [Codeflix](https://github.com/anaguerraabaroa/Codeflix)
-* [RandomNumber](https://github.com/anaguerraabaroa/RandomNumber)
-* [CodeflixSearchEngine](https://github.com/anaguerraabaroa/CodeflixSearchEngine)
-* [ProfileCards](https://github.com/anaguerraabaroa/ProfileCards)
-* [Pokemon](https://github.com/anaguerraabaroa/Pokemon)
-* [RickandMortySearchEngine](https://github.com/anaguerraabaroa/RickandMortySearchEngine)
-* [ProfileCardsRefactor](https://github.com/anaguerraabaroa/ProfileCardsRefactor)
-* [LightHouse CSS Animation](https://github.com/anaguerraabaroa/LightHouse)
+* [Adalab Landing Page](https://github.com/anaguerraabaroa/adalab-landing-page)
+* [Anonymous Proxy Landing Page](https://github.com/anaguerraabaroa/anonymous-proxy-landing-page) 
+* [Codeflix](https://github.com/anaguerraabaroa/codeflix)
+* [Random Number](https://github.com/anaguerraabaroa/random-number)
+* [Codeflix TV Shows Search](https://github.com/anaguerraabaroa/javascript-codeflix-shows-search)
+* [Profile Cards](https://github.com/anaguerraabaroa/profile-cards)
+* [Pokemon](https://github.com/anaguerraabaroa/pokemon)
+* [Rick and Morty Character Search](https://github.com/anaguerraabaroa/rick-and-morty-character-search)
+* [Profile Cards Refactor](https://github.com/anaguerraabaroa/profile-cards-refactor)
+* [LightHouse CSS Animation](https://github.com/anaguerraabaroa/lighthouse)
+* [Codeflix Movies Search](https://github.com/anaguerraabaroa/react-codeflix-movies-search)
 
 ## <**Get in touch**/>
 
