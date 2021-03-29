@@ -40,7 +40,7 @@ A little bit more about myself: <a href="https://github.com/anaguerraabaroa"><im
 * [Pokemon](https://github.com/anaguerraabaroa/pokemon)
 * [Rick and Morty Character Search](https://github.com/anaguerraabaroa/rick-and-morty-character-search)
 * [Profile Cards Refactor](https://github.com/anaguerraabaroa/profile-cards-refactor)
-* [LightHouse CSS Animation](https://github.com/anaguerraabaroa/lighthouse)
+* [Lighthouse CSS Animation](https://github.com/anaguerraabaroa/lighthouse)
 * [Codeflix Movies Search](https://github.com/anaguerraabaroa/react-codeflix-movies-search)
 
 ## <**Get in touch**/>
