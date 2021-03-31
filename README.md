@@ -22,6 +22,9 @@ A little bit more about myself: <a href="https://github.com/anaguerraabaroa"><im
 [<img src = "https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">](https://git-scm.com/)
 [<img src = "https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">](https://github.com/)
 
+**Learning:** [<img src = "https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white">](https://jestjs.io/) 
+[<img src = "https://img.shields.io/badge/-Testing Library-E33332?style=flat&logo=testing-library&logoColor=white">](https://testing-library.com/)
+
 [<img src = "https://img.shields.io/badge/-Scrum-0052CC?style=flat&logo=jira-software&logoColor=white">](https://agilemanifesto.org/iso/es/manifesto.html)
 [<img src = "https://img.shields.io/badge/-Kanban-0079BF?style=flat&logo=trello&logoColor=white">](https://kanbantool.com/kanban-library/introduction)
 [<img src = "https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white">](https://slack.com/intl/es-es/)
