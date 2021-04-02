@@ -59,6 +59,7 @@
 <h2 align="center">&lt;Projects/&gt;</h2>
 
 <div align="center">
+  <ul>
   <li><a href="https://github.com/anaguerraabaroa/adalab-landing-page">Adalab Landing Page</a></li>
   <li><a href="https://github.com/anaguerraabaroa/anonymous-proxy-landing-page">Anonymous Proxy Landing Page</a></li>
    <li><a href="https://github.com/anaguerraabaroa/codeflix">Codeflix</a></li>
@@ -70,6 +71,7 @@
    <li><a href="https://github.com/anaguerraabaroa/rick-and-morty-character-search">Rick and Morty Character Search</a></li>
    <li><a href="https://github.com/anaguerraabaroa/profile-cards-refactor">Profile Cards Refactor</a></li>
    <li><a href="https://github.com/anaguerraabaroa/react-codeflix-movies-search">Codeflix Movies Search/a></li>
+    </ul>
 </div>
 
 <h2 align="center">&lt;Get in touch/&gt;</h2>
