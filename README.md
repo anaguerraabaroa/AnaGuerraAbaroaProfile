@@ -1,3 +1,5 @@
+![Ana Guerra Abaroa Profile](./images/profile_banner.jpg)
+
 <h1 align="center">&lt;Hi, I'm Ana!!/&gt;:wave:</h1>
 
 <p align="center">
