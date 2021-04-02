@@ -236,24 +236,18 @@
       alt="Adalab Landing Page"
       src="https://img.shields.io/badge/Adalab_Landing_Page-000000?style=flat&logo=html5&logoColor=white"
   /></a>
-</div>
-<div align="center">
   <a href="https://github.com/anaguerraabaroa/anonymous-proxy-landing-page"
     ><img
       title="Anonymous Proxy Landing Page"
       alt="Anonymous Proxy Landing Page"
       src="https://img.shields.io/badge/Anonymous_Proxy_Landing_Page-000000?style=flat&logo=html5&logoColor=white"
   /></a>
-</div>
-<div align="center">
   <a href="https://github.com/anaguerraabaroa/codeflix"
     ><img
       title="Codeflix"
       alt="Codeflix"
       src="https://img.shields.io/badge/Codeflix-000000?style=flat&logo=html5&logoColor=white"
   /></a>
-</div>
-<div align="center">
   <a href="https://github.com/anaguerraabaroa/lighthouse"
     ><img
       title="Lighthouse CSS Animation"
@@ -267,17 +261,13 @@
       title="Random Number"
       alt="Random Number"
       src="https://img.shields.io/badge/Random_Number-000000?style=flat&logo=javascript&logoColor=white"
-  /></a>
-</div>
-<div align="center">    
+  /></a>   
   <a href="https://github.com/anaguerraabaroa/javascript-codeflix-shows-search"
     ><img
       title="Codeflix TV Shows Search"
       alt="Codeflix TV Shows Search"
       src="https://img.shields.io/badge/Codeflix_TV_Shows_Search-000000?style=flat&logo=javascript&logoColor=white"
   /></a>
-</div>
-<div align="center">
   <a href="https://github.com/anaguerraabaroa/profile-cards">
     <img
       title="Profile Cards"
@@ -292,24 +282,18 @@
       alt="Pokemon"
       src="https://img.shields.io/badge/Pokemon-000000?style=flat&logo=react&logoColor=white"
   /></a>
-</div>
-<div align="center">
   <a href="https://github.com/anaguerraabaroa/rick-and-morty-character-search"
     ><img
       title="Rick and Morty Character Search"
       alt="Rick and Morty Character Search"
       src="https://img.shields.io/badge/Rick_and_Morty_Character_Search-000000?style=flat&logo=react&logoColor=white"
   /></a>
-</div>
-<div align="center">
   <a href="https://github.com/anaguerraabaroa/profile-cards-refactor"
     ><img
       title="Profile Cards Refactor"
       alt="Profile Cards Refactor"
       src="https://img.shields.io/badge/Profile_Cards_Refactor-000000?style=flat&logo=react&logoColor=white"
   /></a>
-</div>
-<div align="center">
   <a href="https://github.com/anaguerraabaroa/react-codeflix-movies-search"
     ><img
       title="Codeflix Movies Search"
@@ -322,7 +306,7 @@
     ><img
       title="TDD Form with an API Request"
       alt="TDD Form with an API Request"
-      src="https://img.shields.io/badge/-TDD_Form_with_an_API_Request-000000?style=flat&logo=react&logoColor=white"
+      src="https://img.shields.io/badge/-TDD_Form_with_an_API_Request-000000?style=flat&logo=testing-library&logoColor=white"
   /></a>
 </div>
 
