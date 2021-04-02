@@ -266,7 +266,7 @@
     ><img
       title="Random Number"
       alt="Random Number"
-      src="https://img.shields.io/badge/-Random_Number-44d9e6?style=flat&logo=javascript&logoColor=black"
+      src="https://img.shields.io/badge/-Random_Number-44d9e6?style=flat&logo=javascript&logoColor=white"
   /></a>
 </div>
 <div align="center">    
@@ -274,7 +274,7 @@
     ><img
       title="Codeflix TV Shows Search"
       alt="Codeflix TV Shows Search"
-      src="https://img.shields.io/badge/-Codeflix_TV_Shows_Search-ff5c5c?style=flat&logo=javascript&logoColor=black"
+      src="https://img.shields.io/badge/-Codeflix_TV_Shows_Search-ff5c5c?style=flat&logo=javascript&logoColor=white"
   /></a>
 </div>
 <div align="center">
@@ -282,7 +282,7 @@
     <img
       title="Profile Cards"
       alt="Profile Cards"
-      src="https://img.shields.io/badge/-Profile_Cards-ff8b54?style=flat&logo=javascript&logoColor=black"
+      src="https://img.shields.io/badge/-Profile_Cards-ff8b54?style=flat&logo=javascript&logoColor=white"
   /></a>
 </div>
 <div align="center">
@@ -290,7 +290,7 @@
     ><img
       title="Pokemon"
       alt="Pokemon"
-      src="https://img.shields.io/badge/-Pokemon-fff952?style=flat&logo=react&logoColor=black"
+      src="https://img.shields.io/badge/-Pokemon-fff952?style=flat&logo=react&logoColor=white"
   /></a>
 </div>
 <div align="center">
@@ -298,7 +298,7 @@
     ><img
       title="Rick and Morty Character Search"
       alt="Rick and Morty Character Search"
-      src="https://img.shields.io/badge/-Rick_and_Morty_Character_Search-99e265?style=flat&logo=react&logoColor=black"
+      src="https://img.shields.io/badge/-Rick_and_Morty_Character_Search-99e265?style=flat&logo=react&logoColor=white"
   /></a>
 </div>
 <div align="center">
@@ -306,7 +306,7 @@
     ><img
       title="Profile Cards Refactor"
       alt="Profile Cards Refactor"
-      src="https://img.shields.io/badge/-Profile_Cards_Refactor-44d9e6?style=flat&logo=react&logoColor=black"
+      src="https://img.shields.io/badge/-Profile_Cards_Refactor-44d9e6?style=flat&logo=react&logoColor=white"
   /></a>
 </div>
 <div align="center">
@@ -314,7 +314,7 @@
     ><img
       title="Codeflix Movies Search"
       alt="Codeflix Movies Search"
-      src="https://img.shields.io/badge/-Codeflix_Movies_Search-ff5c5c?style=flat&logo=react&logoColor=black"
+      src="https://img.shields.io/badge/-Codeflix_Movies_Search-ff5c5c?style=flat&logo=react&logoColor=white"
   /></a>
 </div>
 <div align="center">
@@ -322,7 +322,7 @@
     ><img
       title="TDD Form with an API Request"
       alt="TDD Form with an API Request"
-      src="https://img.shields.io/badge/-TDD_Form_with_an_API_Request-ff8b54?style=flat&logo=react&logoColor=black"
+      src="https://img.shields.io/badge/-TDD_Form_with_an_API_Request-ff8b54?style=flat&logo=react&logoColor=white"
   /></a>
 </div>
 
@@ -343,8 +343,8 @@
   /></a>
   <a href="https://twitter.com/anaguerraabaroa/"
     ><img
-      title="Jest"
-      alt="Jest"
+      title="Twitter"
+      alt="Twitter"
       src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"
   /></a>
 </div>
