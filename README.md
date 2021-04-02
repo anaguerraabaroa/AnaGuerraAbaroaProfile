@@ -8,22 +8,18 @@
   /></a></h1>
 
 <p align="center">
-  𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 and 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 have always been my greatest 𝗺𝗼𝘁𝗶𝘃𝗮𝘁𝗶𝗼𝗻 to grow
+  <strong>Development</strong> and <strong>learning</strong> have always been my greatest <strong>motivation</strong> to grow
   profesionally.
 </p>
 
 <p align="center">
   These concerns have led me to explore different profesional sectors such as
-  𝗲𝘃𝗲𝗻𝘁 𝗺𝗮𝗻𝗮𝗴𝗺𝗲𝗻𝘁 𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀, 𝘄𝗲𝗯 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 𝗽𝗿𝗼𝗱𝘂𝗰𝘁 and 𝗱𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗶𝗺𝗽𝗿𝗼𝘃𝗲𝗺𝗲𝗻𝘁
-  𝗺𝗮𝗻𝗮𝗴𝗺𝗲𝗻𝘁 or 𝘁𝗵𝗶𝗿𝗱 𝗽𝗮𝗿𝘁𝗶𝗲𝘀 𝗔𝗣𝗜𝘀 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 as 𝗽𝗿𝗼𝗱𝘂𝗰𝘁 𝗼𝘄𝗻𝗲𝗿, until
-  discover my new passion as 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿.
+  <strong>event management services</strong>, <strong>web content product</strong> and <strong>data improvement management</strong> or <strong>third parties APIs intregration projects</strong> as <strong>product owner</strong>, until
+  discover my new passion as <strong>front-end developer</strong>.
 </p>
 
 <p align="center">
-  Taking part in national and international projects with 𝗶𝗻𝘁𝗲𝗿𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗮𝗿𝘆
-  𝗲𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝘁𝗲𝗮𝗺𝘀 under an 𝗮𝗴𝗶𝗹𝗲/𝘀𝗰𝗿𝘂𝗺 𝗳𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 has provided me with an
-  opportunity to learn about 𝗽𝗹𝗮𝗻𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝘁𝗮𝘀𝗸𝘀 𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗮𝘁𝗶𝗼𝗻, 𝗱𝗲𝗰𝗶𝘀𝗶𝗼𝗻 𝗺𝗮𝗸𝗶𝗻𝗴,
-  and 𝗽𝗲𝗿𝘀𝗲𝘃𝗲𝗿𝗮𝗻𝗰𝗲 to achieve goals.
+  Taking part in national and international projects with <strong>interdisciplinary environments and teams</strong> under an <strong>agile/scrum framework</strong> has provided me with an opportunity to learn about <strong>planning and tasks organization</strong>, <strong>decision making</strong>, and <strong>perseverance</strong> to achieve goals.
 </p>
 
 <h4 align="center">&lt;A little bit more about myself/&gt;</h4>
