@@ -1,11 +1,11 @@
 ![Ana Guerra Abaroa Profile](./images/profile_banner.jpg)
 
-<h1 align="center">&lt;Hi, I'm Ana!!/&gt;</h1> <a href="https://github.com/anaguerraabaroa"
+<h1 align="center">&lt;Hi, I'm Ana!!/&gt; <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Hello World"
       alt="Hello World"
-      src="https://cdn.icon-icons.com/icons2/1325/PNG/512/hifive4x_86990.png"
-  /></a>
+      src="https://cdn.icon-icons.com/icons2/1325/PNG/64/hifive4x_86990.png"
+  /></a></h1>
 
 <p align="center">
   𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 and 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 have always been my greatest 𝗺𝗼𝘁𝗶𝘃𝗮𝘁𝗶𝗼𝗻 to grow
