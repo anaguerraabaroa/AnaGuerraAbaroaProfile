@@ -4,7 +4,7 @@
     ><img
       title="Hello World"
       alt="Hello World"
-      src="https://cdn.icon-icons.com/icons2/1325/PNG/64/hifive4x_86990.png"
+      src="https://cdn.icon-icons.com/icons2/1325/PNG/48/hifive4x_86990.png"
   /></a></h1>
 
 <p align="center">
