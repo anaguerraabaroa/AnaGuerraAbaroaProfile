@@ -254,6 +254,8 @@
       alt="Lighthouse CSS Animation"
       src="https://img.shields.io/badge/-Lighthouse-99e265?logoWidth=40"
   /></a>
+</div>
+<div align="center">
   <a href="https://github.com/anaguerraabaroa/random-number"
     ><img
       title="Random Number"
@@ -266,14 +268,14 @@
       alt="Codeflix TV Shows Search"
       src="https://img.shields.io/badge/-Codeflix_TV_Shows_Search-ff5c5c?logoWidth=40"
   /></a>
-</div>
-<div align="center">
   <a href="https://github.com/anaguerraabaroa/profile-cards">
     <img
       title="Profile Cards"
       alt="Profile Cards"
       src="https://img.shields.io/badge/-Profile_Cards-ff8b54?logoWidth=40"
   /></a>
+</div>
+<div align="center">
   <a href="https://github.com/anaguerraabaroa/pokemon"
     ><img
       title="Pokemon"
