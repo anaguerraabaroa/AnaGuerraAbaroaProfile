@@ -106,6 +106,8 @@
       alt="React"
       src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"
   /></a>
+</div>
+<div align="center">
   <a href="https://code.visualstudio.com/"
     ><img
       title="Visual Studio Code"
@@ -136,7 +138,20 @@
       alt="NPM"
       src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white"
   /></a>
+  <a href="https://bitbucket.org/"
+    ><img
+      title="Bitbucket"
+      alt="Bitbucket"
+      src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white"
+  /></a>
+ <a href="https://www.figma.com/"
+    ><img
+      title="Figma"
+      alt="Figma"
+      src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"
+  /></a>
 </div>
+
 
 <div align="center">
   <a href="https://agilemanifesto.org/iso/es/manifesto.html"
@@ -169,12 +184,6 @@
       alt="Flyspray"
       src="https://img.shields.io/badge/-Flyspray-0052CC?style=flat&logo=jira&logoColor=white"
   /></a>
-  <a href="https://bitbucket.org/"
-    ><img
-      title="Bitbucket"
-      alt="Bitbucket"
-      src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white"
-  /></a>
   <a href="https://slack.com/intl/es-es/"
     ><img
       title="Slack"
@@ -186,12 +195,6 @@
       title="Zoom"
       alt="Zoom"
       src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white"
-  /></a>
-  <a href="https://www.figma.com/"
-    ><img
-      title="Figma"
-      alt="Figma"
-      src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"
   /></a>
   <a href="https://github.com/anaguerraabaroa/"
     ><img
