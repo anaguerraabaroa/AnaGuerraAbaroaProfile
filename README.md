@@ -58,7 +58,7 @@
   
 <h2 align="center">&lt;Projects/&gt;</h2>
 
-<div align="center">
+<div>
   <ul align="center">
   <li><a href="https://github.com/anaguerraabaroa/adalab-landing-page">Adalab Landing Page</a></li>
   <li><a href="https://github.com/anaguerraabaroa/anonymous-proxy-landing-page">Anonymous Proxy Landing Page</a></li>
