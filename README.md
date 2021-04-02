@@ -187,6 +187,12 @@
       alt="Zoom"
       src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white"
   /></a>
+  <a href="https://www.figma.com/"
+    ><img
+      title="Figma"
+      alt="Figma"
+      src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"
+  /></a>
   <a href="https://github.com/anaguerraabaroa/"
     ><img
       title="Teamwork"
