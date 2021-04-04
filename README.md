@@ -328,3 +328,5 @@
       src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"
   /></a>
 </div>
+
+![Ana Guerra Abaroa Profile](./images/profile_banner.jpg)
