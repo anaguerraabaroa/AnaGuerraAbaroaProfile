@@ -304,6 +304,12 @@
       alt="TDD Form with an API Request"
       src="https://img.shields.io/badge/-TDD_Form_with_an_API_Request-000000?style=flat&logo=testing-library&logoColor=white"
   /></a>
+    <a href="https://github.com/anaguerraabaroa/react-tdd-search-form"
+    ><img
+      title="React TDD Search Form"
+      alt="React TDD Search Form"
+      src="https://img.shields.io/badge/-React_TDD_Search_Form-000000?style=flat&logo=testing-library&logoColor=white"
+  /></a>
 </div>
 
 <h2 align="center">&lt;Get in touch/&gt;</h2>
