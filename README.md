@@ -306,7 +306,7 @@
   /></a>
     <a href="https://github.com/anaguerraabaroa/react-tdd-search-form"
     ><img
-      title="React TDD Search Form"
+      title="TDD Search Form"
       alt="React TDD Search Form"
       src="https://img.shields.io/badge/-React_TDD_Search_Form-000000?style=flat&logo=testing-library&logoColor=white"
   /></a>
