@@ -230,25 +230,25 @@
     ><img
       title="Adalab Landing Page"
       alt="Adalab Landing Page"
-      src="https://img.shields.io/badge/Adalab_Landing_Page-000000?style=for-the-badge&logo=html5&logoColor=white"
+      src="https://img.shields.io/badge/Adalab_Landing_Page-000000?style=for-the-badge&logo=html5&logoColor=E34F26"
   /></a>
   <a href="https://github.com/anaguerraabaroa/anonymous-proxy-landing-page"
     ><img
       title="Anonymous Proxy Landing Page"
       alt="Anonymous Proxy Landing Page"
-      src="https://img.shields.io/badge/Anonymous_Proxy_Landing_Page-000000?style=for-the-badge&logo=html5&logoColor=white"
+      src="https://img.shields.io/badge/Anonymous_Proxy_Landing_Page-000000?style=for-the-badge&logo=html5&logoColor=E34F26"
   /></a>
   <a href="https://github.com/anaguerraabaroa/codeflix"
     ><img
       title="Codeflix"
       alt="Codeflix"
-      src="https://img.shields.io/badge/Codeflix-000000?style=for-the-badge&logo=html5&logoColor=white"
+      src="https://img.shields.io/badge/Codeflix-000000?style=for-the-badge&logo=html5&logoColor=E34F26"
   /></a>
   <a href="https://github.com/anaguerraabaroa/lighthouse"
     ><img
       title="Lighthouse CSS Animation"
       alt="Lighthouse CSS Animation"
-      src="https://img.shields.io/badge/Lighthouse-000000?style=for-the-badge&logo=html5&logoColor=white"
+      src="https://img.shields.io/badge/Lighthouse-000000?style=for-the-badge&logo=html5&logoColor=E34F26"
   /></a>
 </div>
 <div align="center">
@@ -256,19 +256,19 @@
     ><img
       title="Random Number"
       alt="Random Number"
-      src="https://img.shields.io/badge/Random_Number-000000?style=for-the-badge&logo=javascript&logoColor=white"
+      src="https://img.shields.io/badge/Random_Number-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
   /></a>   
   <a href="https://github.com/anaguerraabaroa/javascript-codeflix-shows-search"
     ><img
       title="Codeflix TV Shows Search"
       alt="Codeflix TV Shows Search"
-      src="https://img.shields.io/badge/Codeflix_TV_Shows_Search-000000?style=for-the-badge&logo=javascript&logoColor=white"
+      src="https://img.shields.io/badge/Codeflix_TV_Shows_Search-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
   /></a>
   <a href="https://github.com/anaguerraabaroa/profile-cards">
     <img
       title="Profile Cards"
       alt="Profile Cards"
-      src="https://img.shields.io/badge/Profile_Cards-000000?style=for-the-badge&logo=javascript&logoColor=white"
+      src="https://img.shields.io/badge/Profile_Cards-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
   /></a>
 </div>
 <div align="center">
@@ -276,25 +276,25 @@
     ><img
       title="Pokemon"
       alt="Pokemon"
-      src="https://img.shields.io/badge/Pokemon-000000?style=for-the-badge&logo=react&logoColor=white"
+      src="https://img.shields.io/badge/Pokemon-000000?style=for-the-badge&logo=react&logoColor=61DAFB"
   /></a>
   <a href="https://github.com/anaguerraabaroa/rick-and-morty-character-search"
     ><img
       title="Rick and Morty Character Search"
       alt="Rick and Morty Character Search"
-      src="https://img.shields.io/badge/Rick_and_Morty_Character_Search-000000?style=for-the-badge&logo=react&logoColor=white"
+      src="https://img.shields.io/badge/Rick_and_Morty_Character_Search-000000?style=for-the-badge&logo=react&logoColor=61DAFB"
   /></a>
   <a href="https://github.com/anaguerraabaroa/profile-cards-refactor"
     ><img
       title="Profile Cards Refactor"
       alt="Profile Cards Refactor"
-      src="https://img.shields.io/badge/Profile_Cards_Refactor-000000?style=for-the-badge&logo=react&logoColor=white"
+      src="https://img.shields.io/badge/Profile_Cards_Refactor-000000?style=for-the-badge&logo=react&logoColor=61DAFB"
   /></a>
   <a href="https://github.com/anaguerraabaroa/react-codeflix-movies-search"
     ><img
       title="Codeflix Movies Search"
       alt="Codeflix Movies Search"
-      src="https://img.shields.io/badge/Codeflix_Movies_Search-000000?style=for-the-badge&logo=react&logoColor=white"
+      src="https://img.shields.io/badge/Codeflix_Movies_Search-000000?style=for-the-badge&logo=react&logoColor=61DAFB"
   /></a>
 </div>
 <div align="center">
@@ -302,13 +302,13 @@
     ><img
       title="TDD Form with an API Request"
       alt="TDD Form with an API Request"
-      src="https://img.shields.io/badge/-TDD_Form_with_an_API_Request-000000?style=for-the-badge&logo=testing-library&logoColor=white"
+      src="https://img.shields.io/badge/-TDD_Form_with_an_API_Request-000000?style=for-the-badge&logo=testing-library&logoColor=E33332"
   /></a>
     <a href="https://github.com/anaguerraabaroa/react-tdd-search-form"
     ><img
       title="TDD Search Form"
       alt="TDD Search Form"
-      src="https://img.shields.io/badge/-TDD_Search_Form-000000?style=for-the-badge&logo=testing-library&logoColor=white"
+      src="https://img.shields.io/badge/-TDD_Search_Form-000000?style=for-the-badge&logo=testing-library&logoColor=E33332"
   /></a>
 </div>
 
