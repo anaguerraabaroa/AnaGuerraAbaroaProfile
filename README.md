@@ -298,6 +298,12 @@
       alt="Codeflix Movies Search"
       src="https://img.shields.io/badge/Codeflix_Movies_Search-000000?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB"
   /></a>
+     <a href="https://github.com/anaguerraabaroa/tasks-list"
+    ><img
+      title="Tasks List"
+      alt="Tasks List"
+      src="https://img.shields.io/badge/Tasks_List-000000?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB"
+  /></a>
 </div>
 <div align="center">
   <a href="https://github.com/anaguerraabaroa/react-tdd-form"
