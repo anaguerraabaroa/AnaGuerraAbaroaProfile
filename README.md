@@ -1,3 +1,4 @@
+![Ana Guerra Abaroa Profile](./images/profile_banner.png)
 <h1 align="justify">&lt;Hi <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Hello World!"
