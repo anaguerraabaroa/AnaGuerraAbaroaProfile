@@ -279,7 +279,7 @@
 </div>
 <br>
 <h2 align="justify">&lt;Projects/&gt;</h2>
-<div align="justify">
+<div align="left">
   <a href="https://github.com/anaguerraabaroa/adalab-landing-page"
     ><img
       title="Adalab Landing Page"
@@ -305,7 +305,7 @@
       src="https://img.shields.io/badge/Lighthouse-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6"
   /></a>
 </div>
-<div align="justify">
+<div align="left">
   <a href="https://github.com/anaguerraabaroa/random-number"
     ><img
       title="Random Number"
@@ -325,7 +325,7 @@
       src="https://img.shields.io/badge/Profile_Cards-000000?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E"
   /></a>
 </div>
-<div align="justify">
+<div align="left">
   <a href="https://github.com/anaguerraabaroa/pokemon"
     ><img
       title="Pokemon"
@@ -357,7 +357,7 @@
       src="https://img.shields.io/badge/Tasks_List-000000?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB"
   /></a>
 </div>
-<div align="justify">
+<div align="left">
   <a href="https://github.com/anaguerraabaroa/react-tdd-form"
     ><img
       title="TDD Form with API Request"
