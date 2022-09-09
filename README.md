@@ -17,7 +17,7 @@
   Taking part in national and international projects with <strong>interdisciplinary environments and teams</strong> under an <strong>agile/scrum framework</strong> has provided me with an opportunity to learn about <strong>planning and tasks organization</strong>, <strong>decision making</strong>, and <strong>perseverance</strong> to achieve goals.
 </p>
 <h4 align="justify">&lt;A little bit more about myself/&gt;</h4>
-<div align="justify">
+<div align="left">
   <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Frontend"
@@ -63,7 +63,7 @@
 </div>
 <br>
 <h2 align="justify">&lt;Tech Stack & Skills/&gt;</h2>
-<div align="justify">
+<div align="left">
   <a href="https://html.spec.whatwg.org/"
     ><img
       title="HTML"
@@ -95,7 +95,7 @@
       src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"
   /></a>
 </div>
-<div align="justify">
+<div align="left">
   <a href="https://code.visualstudio.com/"
     ><img
       title="Visual Studio Code"
@@ -139,7 +139,7 @@
       src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
   /></a>
 </div>
-<div align="justify">
+<div align="left">
   <a href="https://agilemanifesto.org/iso/es/manifesto.html"
     ><img
       title="Scrum"
@@ -195,7 +195,7 @@
       src="https://img.shields.io/badge/-Make-f0f?style=for-the-badge&logo=integromat&logoColor=white"
   /></a>
     </div>
-    <div align="justify">
+    <div align="left">
   <a href="https://wordpress.org/"
     ><img
       title="Wordpress"
@@ -221,7 +221,7 @@
       src="https://img.shields.io/badge/-Divi-8F42EC?style=for-the-badge&logo=wordpress&logoColor=white"
   /></a>
     </div>
-     <div align="justify">
+     <div align="left">
    <a href="https://www.mailerlite.com/"
     ><img
       title="MailerLite"
@@ -247,7 +247,7 @@
       src="https://img.shields.io/badge/-Acumbamail-412CE1?style=for-the-badge&logo=gmail&logoColor=white" 
   /></a>
     </div>
-    <div align="justify">
+    <div align="left">
   <a href="https://github.com/anaguerraabaroa/"
     ><img
       title="Teamwork"
