@@ -7,18 +7,18 @@
       src="https://cdn.icon-icons.com/icons2/1325/PNG/48/hifive4x_86990.png"
   /></a>, I'm Ana!!/&gt;</h1>
 
-<p align="center">
+<p align="justify">
   <strong>Development</strong> and <strong>learning</strong> have always been my greatest <strong>motivation</strong> to grow
   profesionally.
 </p>
 
-<p align="center">
+<p align="justify">
   These concerns have led me to explore different profesional sectors such as
   <strong>event management services</strong>, <strong>web content product</strong> and <strong>data improvement management</strong> or <strong>third parties APIs intregration projects</strong> as <strong>product owner</strong>, until
   discover my new passion as <strong>front-end developer</strong>.
 </p>
 
-<p align="center">
+<p align="justify">
   Taking part in national and international projects with <strong>interdisciplinary environments and teams</strong> under an <strong>agile/scrum framework</strong> has provided me with an opportunity to learn about <strong>planning and tasks organization</strong>, <strong>decision making</strong>, and <strong>perseverance</strong> to achieve goals.
 </p>
 
