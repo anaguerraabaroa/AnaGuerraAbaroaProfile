@@ -1,28 +1,23 @@
-<h1 align="center">&lt;Hi <a href="https://github.com/anaguerraabaroa"
+<h1 align="justify">&lt;Hi <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Hello World!"
       alt="Hello World!"
       src="https://cdn.icon-icons.com/icons2/1325/PNG/48/hifive4x_86990.png"
   /></a>, I'm Ana!!/&gt;</h1>
-
 <p align="justify">
   <strong>Development</strong> and <strong>learning</strong> have always been my greatest <strong>motivation</strong> to grow
   profesionally.
 </p>
-
 <p align="justify">
   These concerns have led me to explore different profesional sectors such as
   <strong>event management services</strong>, <strong>web content product</strong> and <strong>data improvement management</strong> or <strong>third parties APIs intregration projects</strong> as <strong>product owner</strong>, until
   discover my new passion as <strong>front-end developer</strong>.
 </p>
-
 <p align="justify">
   Taking part in national and international projects with <strong>interdisciplinary environments and teams</strong> under an <strong>agile/scrum framework</strong> has provided me with an opportunity to learn about <strong>planning and tasks organization</strong>, <strong>decision making</strong>, and <strong>perseverance</strong> to achieve goals.
 </p>
-
-<h4 align="center">&lt;A little bit more about myself/&gt;</h4>
-
-<div align="center">
+<h4 align="justify">&lt;A little bit more about myself/&gt;</h4>
+<div align="justify">
   <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Frontend"
@@ -66,10 +61,9 @@
       src="https://icon-icons.com/icons2/622/PNG/32/baidu-paw-logo_icon-icons.com_57182.png"
   /></a>
 </div>
-
-<h2 align="center">&lt;Tech Stack & Skills/&gt;</h2>
-
-<div align="center">
+<br>
+<h2 align="justify">&lt;Tech Stack & Skills/&gt;</h2>
+<div align="justify">
   <a href="https://html.spec.whatwg.org/"
     ><img
       title="HTML"
@@ -101,7 +95,7 @@
       src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"
   /></a>
 </div>
-<div align="center">
+<div align="justify">
   <a href="https://code.visualstudio.com/"
     ><img
       title="Visual Studio Code"
@@ -145,9 +139,7 @@
       src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
   /></a>
 </div>
-
-
-<div align="center">
+<div align="justify">
   <a href="https://agilemanifesto.org/iso/es/manifesto.html"
     ><img
       title="Scrum"
@@ -190,8 +182,72 @@
       alt="Zoom"
       src="https://img.shields.io/badge/-Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"
   /></a>
+   <a href="https://www.notion.so/es-es"
+    ><img
+      title="Notion"
+      alt="Notion"
+      src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white"
+  /></a>
+    <a href="https://www.notion.so/es-es"
+    ><img
+      title="Make"
+      alt="Make"
+      src="https://img.shields.io/badge/-Make-f0f?style=for-the-badge&logo=integromat&logoColor=white"
+  /></a>
     </div>
-    <div align="center">
+    <div align="justify">
+  <a href="https://wordpress.org/"
+    ><img
+      title="Wordpress"
+      alt="Wordpress"
+      src="https://img.shields.io/badge/-Wordpress-0073AA?style=for-the-badge&logo=wordpress&logoColor=white"
+  /></a>
+  <a href="https://woocommerce.com/"
+    ><img
+      title="Woocommerce"
+      alt="Woocommerce"
+      src="https://img.shields.io/badge/-Woocommerce-674399?style=for-the-badge&logo=woocommerce&logoColor=white"
+  /></a>
+  <a href="https://elementor.com/"
+    ><img
+      title="Elementor"
+      alt="Elementor"
+      src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"
+  /></a>
+ <a href="https://www.elegantthemes.com/gallery/divi/"
+    ><img
+      title="Divi"
+      alt="Divi"
+      src="https://img.shields.io/badge/-Divi-8F42EC?style=for-the-badge&logo=wordpress&logoColor=white"
+  /></a>
+    </div>
+     <div align="justify">
+   <a href="https://www.mailerlite.com/"
+    ><img
+      title="MailerLite"
+      alt="MailerLite"
+      src="https://img.shields.io/badge/-MailerLite-09c269?style=for-the-badge&logo=gmail&logoColor=white"
+  /></a>
+  <a href="https://mailchimp.com/"
+    ><img
+      title="MailChimp"
+      alt="MailChimp"
+      src="https://img.shields.io/badge/-MailChimp-ffe01b?style=for-the-badge&logo=mailchimp&logoColor=black"
+  /></a>
+  <a href="https://es.sendinblue.com/"
+    ><img
+      title="SendinBlue"
+      alt="SendinBlue"
+      src="https://img.shields.io/badge/-SendinBlue-0092ff?style=for-the-badge&logo=gmail&logoColor=white"
+  /></a>
+  <a href="https://acumbamail.com/"
+    ><img
+      title="Acumbamail"
+      alt="Acumbamail"
+      src="https://img.shields.io/badge/-Acumbamail-412CE1?style=for-the-badge&logo=gmail&logoColor=white" 
+  /></a>
+    </div>
+    <div align="justify">
   <a href="https://github.com/anaguerraabaroa/"
     ><img
       title="Teamwork"
@@ -205,10 +261,9 @@
       src="https://img.shields.io/badge/-Perseverance-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"
   /></a>
 </div>
-
-<h4 align="center">&lt;Learning/&gt;</h4>
-
-<div align="center">
+<br>
+<h4 align="justify">&lt;Learning/&gt;</h4>
+<div align="justify">
   <a href="https://jestjs.io/"
     ><img
       title="Jest"
@@ -222,10 +277,9 @@
       src="https://img.shields.io/badge/-Testing Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white"
   /></a>
 </div>
-
-<h2 align="center">&lt;Projects/&gt;</h2>
-
-<div align="center">
+<br>
+<h2 align="justify">&lt;Projects/&gt;</h2>
+<div align="justify">
   <a href="https://github.com/anaguerraabaroa/adalab-landing-page"
     ><img
       title="Adalab Landing Page"
@@ -251,7 +305,7 @@
       src="https://img.shields.io/badge/Lighthouse-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6"
   /></a>
 </div>
-<div align="center">
+<div align="justify">
   <a href="https://github.com/anaguerraabaroa/random-number"
     ><img
       title="Random Number"
@@ -271,7 +325,7 @@
       src="https://img.shields.io/badge/Profile_Cards-000000?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E"
   /></a>
 </div>
-<div align="center">
+<div align="justify">
   <a href="https://github.com/anaguerraabaroa/pokemon"
     ><img
       title="Pokemon"
@@ -303,7 +357,7 @@
       src="https://img.shields.io/badge/Tasks_List-000000?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB"
   /></a>
 </div>
-<div align="center">
+<div align="justify">
   <a href="https://github.com/anaguerraabaroa/react-tdd-form"
     ><img
       title="TDD Form with API Request"
@@ -323,10 +377,9 @@
       src="https://img.shields.io/badge/-TDD_Login_Form-000000?style=for-the-badge&logo=testing-library&logoColor=white&labelColor=E33332"
   /></a>
 </div>
-
-<h2 align="center">&lt;Get in touch/&gt;</h2>
-
-<div align="center">
+<br>
+<h2 align="justify">&lt;Get in touch/&gt;</h2>
+<div align="justify">
   <a href="mailto:ana.guerra.abaroa@gmail.com"
     ><img
       title="Gmail"
