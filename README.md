@@ -1,4 +1,4 @@
-![Ana Guerra Abaroa Profile](./images/profile_banner.jpg)
+![Ana Guerra Abaroa Profile](./images/profile-banner.png)
 
 <h1 align="center">&lt;Hi <a href="https://github.com/anaguerraabaroa"
     ><img
