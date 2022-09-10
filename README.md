@@ -12,7 +12,7 @@
 <p align="justify">
   Taking part in national and international projects with <strong>interdisciplinary environments and teams</strong> under an <strong>agile/scrum framework</strong> has provided me with an opportunity to learn about <strong>planning and tasks organization</strong>, <strong>decision making</strong>, and <strong>perseverance</strong> to achieve goals.
 </p>
-<h4 align="justify">&lt;A little bit more about myself/&gt;</h4>
+<h4 align="justify">&lt;Interests/&gt;</h4>
 <div align="left">
   <a href="https://github.com/anaguerraabaroa"
     ><img
