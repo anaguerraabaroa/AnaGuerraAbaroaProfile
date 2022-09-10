@@ -13,56 +13,56 @@
 <p align="justify">
   Taking part in national and international projects with <strong>interdisciplinary environments and teams</strong> under an <strong>agile/scrum framework</strong> has provided me with an opportunity to learn about <strong>planning and tasks organization</strong>, <strong>decision making</strong>, and <strong>perseverance</strong> to achieve goals.
 </p>
-<h4 align="justify">&lt;A little bit more/&gt;</h4>
-<div align="left">
+<h3 align="justify">&lt;A little bit more/&gt;</h3>
+<div align="center">
   <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Frontend"
       alt="Frontend"
       src="./images/laptop.svg"
-      style="width: 100px"
+      style="width: 200px"
   /></a>
   <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Design"
       alt="Design"
       src="./images/design.svg"
-      style="width: 100px"
+      style="width: 200px"
   /></a>
   <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Organization"
       alt="Organization"
       src="./images/organization.svg"
-      style="width: 100px"
+      style="width: 200px"
   /></a>
   <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Photography"
       alt="Photography"
       src="./images/camera.svg"
-      style="width: 100px"
+      style="width: 200px"
   /></a>
   <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Travel"
       alt="Travel"
       src="./images/travel.svg"
-      style="width: 100px"
+      style="width: 200px"
   /></a>
   <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Music"
       alt="Music"
       src="./images/headphones.svg"
-      style="width: 100px"
+      style="width: 200px"
   /></a>
   <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Cats"
       alt="Cats"
       src="./images/cat.svg"
-      style="width: 100px"
+      style="width: 200px"
   /></a>
 </div>
 <br>
@@ -243,7 +243,7 @@
       src="https://img.shields.io/badge/-Acumbamail-FDFF9B?style=for-the-badge&logo=gmail&logoColor=412CE1" 
   /></a>
 </div>
-<h4 align="justify">&lt;Learning/&gt;</h4>
+<h3 align="justify">&lt;Learning/&gt;</h3>
 <div align="left">
   <a href="https://jestjs.io/"
     ><img
