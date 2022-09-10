@@ -17,8 +17,8 @@
 <div align="justify">
   <a href="https://github.com/anaguerraabaroa"
     ><img
-      title="Frontend"
-      alt="Frontend"
+      title="Front-end development"
+      alt="Front-end development"
       src="./images/laptop.svg"
       style="width: 60px; margin-right: 40px"
   /></a>
