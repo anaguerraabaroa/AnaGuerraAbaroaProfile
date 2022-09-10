@@ -90,8 +90,6 @@
       alt="React"
       src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"
   /></a>
-</div>
-<div align="left">
   <a href="https://code.visualstudio.com/"
     ><img
       title="Visual Studio Code"
@@ -134,8 +132,6 @@
       alt="Figma"
       src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
   /></a>
-</div>
-<div align="left">
   <a href="https://agilemanifesto.org/iso/es/manifesto.html"
     ><img
       title="Scrum"
@@ -196,8 +192,6 @@
       alt="Make"
       src="https://img.shields.io/badge/-Make-f0f?style=for-the-badge&logo=integromat&logoColor=white"
   /></a>
-    </div>
-    <div align="left">
   <a href="https://wordpress.org/"
     ><img
       title="Wordpress"
@@ -222,8 +216,6 @@
       alt="Divi"
       src="https://img.shields.io/badge/-Divi-8F42EC?style=for-the-badge&logo=wordpress&logoColor=white"
   /></a>
-    </div>
-     <div align="left">
    <a href="https://www.mailerlite.com/"
     ><img
       title="MailerLite"
@@ -248,8 +240,6 @@
       alt="Acumbamail"
       src="https://img.shields.io/badge/-Acumbamail-412CE1?style=for-the-badge&logo=gmail&logoColor=white" 
   /></a>
-    </div>
-    <div align="left">
   <a href="https://github.com/anaguerraabaroa/"
     ><img
       title="Teamwork"
@@ -305,8 +295,6 @@
       alt="Lighthouse CSS Animation"
       src="https://img.shields.io/badge/Lighthouse-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6"
   /></a>
-</div>
-<div align="left">
   <a href="https://github.com/anaguerraabaroa/random-number"
     ><img
       title="Random Number"
@@ -325,8 +313,6 @@
       alt="Profile Cards"
       src="https://img.shields.io/badge/Profile_Cards-000000?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E"
   /></a>
-</div>
-<div align="left">
   <a href="https://github.com/anaguerraabaroa/pokemon"
     ><img
       title="Pokemon"
@@ -357,8 +343,6 @@
       alt="Tasks List"
       src="https://img.shields.io/badge/Tasks_List-000000?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB"
   /></a>
-</div>
-<div align="left">
   <a href="https://github.com/anaguerraabaroa/react-tdd-form"
     ><img
       title="TDD Form with API Request"
