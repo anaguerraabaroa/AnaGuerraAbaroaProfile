@@ -24,37 +24,37 @@
     ><img
       title="Design"
       alt="Design"
-      src="https://icon-icons.com/icons2/2389/PNG/32/figma_logo_icon_145280.png"
+      src="https://cdn.icon-icons.com/icons2/2715/PNG/32/figma_logo_icon_172474.png"
   /></a>
   <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Organization"
       alt="Organization"
-      src="https://icon-icons.com/icons2/2644/PNG/32/kanban_fill_icon_159491.png"
+      src="https://cdn.icon-icons.com/icons2/3415/PNG/32/trello_icon_218131.png"
   /></a>
   <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Photography"
       alt="Photography"
-      src="https://icon-icons.com/icons2/934/PNG/32/photo-camera-black-tool_icon-icons.com_72960.png"
+      src="https://cdn.icon-icons.com/icons2/930/PNG/32/camera_icon-icons.com_72364.png"
   /></a>
   <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Travel"
       alt="Travel"
-      src="https://icon-icons.com/icons2/1862/PNG/32/planetearth_118372.png"
+      src="https://cdn.icon-icons.com/icons2/1919/PNG/32/planetsphere_122046.png"
   /></a>
   <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Music"
       alt="Music"
-      src="https://icon-icons.com/icons2/607/PNG/32/headphone-audio-tool-in-black-version_icon-icons.com_56296.png"
+      src="https://cdn.icon-icons.com/icons2/763/PNG/32/headphones_icon-icons.com_64431.png"
   /></a>
   <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Cats"
       alt="Cats"
-      src="https://icon-icons.com/icons2/622/PNG/32/baidu-paw-logo_icon-icons.com_57182.png"
+      src="https://cdn.icon-icons.com/icons2/38/PNG/32/catfootprint_4993.png"
   /></a>
 </div>
 <br>
