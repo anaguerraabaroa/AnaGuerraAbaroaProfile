@@ -20,49 +20,49 @@
       title="Frontend"
       alt="Frontend"
       src="./images/laptop.svg"
-      style="width: 130px"
+      style="width: 120px"
   /></a>
   <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Design"
       alt="Design"
       src="./images/design.svg"
-      style="width: 130px"
+      style="width: 120px"
   /></a>
   <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Organization"
       alt="Organization"
       src="./images/organization.svg"
-      style="width: 130px"
+      style="width: 120px"
   /></a>
   <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Photography"
       alt="Photography"
       src="./images/camera.svg"
-      style="width: 130px"
+      style="width: 120px"
   /></a>
   <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Travel"
       alt="Travel"
       src="./images/travel.svg"
-      style="width: 130px"
+      style="width: 120px"
   /></a>
   <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Music"
       alt="Music"
       src="./images/headphones.svg"
-      style="width: 130px"
+      style="width: 120px"
   /></a>
   <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Cats"
       alt="Cats"
       src="./images/cat.svg"
-      style="width: 130px"
+      style="width: 120px"
   /></a>
 </div>
 <br>
