@@ -14,7 +14,7 @@
   Taking part in national and international projects with <strong>interdisciplinary environments and teams</strong> under an <strong>agile/scrum framework</strong> has provided me with an opportunity to learn about <strong>planning and tasks organization</strong>, <strong>decision making</strong>, and <strong>perseverance</strong> to achieve goals.
 </p>
 <h3 align="justify">&lt;A little bit more/&gt;</h3>
-<div align="center">
+<div align="justify">
   <a href="https://github.com/anaguerraabaroa"
     ><img
       title="Frontend"
