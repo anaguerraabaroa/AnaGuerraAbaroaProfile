@@ -21,7 +21,7 @@
       title="Frontend"
       alt="Frontend"
       src="./images/laptop.svg"
-      style="width: 00px"
+      style="width: 80px"
   /></a>
   </span>
    <span style="padding-right:5px">
