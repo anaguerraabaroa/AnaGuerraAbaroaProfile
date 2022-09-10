@@ -258,7 +258,7 @@
   /></a>
 </div>
 <h4 align="justify">&lt;Learning/&gt;</h4>
-<div align="justify">
+<div align="left">
   <a href="https://jestjs.io/"
     ><img
       title="Jest"
@@ -374,7 +374,7 @@
 </div>
 <br>
 <h2 align="justify">&lt;Get in touch/&gt;</h2>
-<div align="justify">
+<div align="left">
   <a href="mailto:ana.guerra.abaroa@gmail.com"
     ><img
       title="Gmail"
