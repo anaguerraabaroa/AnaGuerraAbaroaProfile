@@ -7,8 +7,8 @@
 </p>
 <p align="justify">
   These concerns have led me to explore different profesional sectors such as
-  <strong>event management services</strong>, <strong>web content product</strong> and <strong>data improvement management</strong> or <strong>third parties APIs intregration projects</strong> as <strong>product owner</strong>, until
-  discover my new passion as <strong>front-end developer</strong>.
+  <strong>event management services</strong>, <strong>web content product</strong> and <strong>data improvement management</strong> or <strong>third parties APIs intregration projects</strong> as <strong>Product Owner</strong>, until
+  discover my new passion as <strong>Front-end Developer</strong>.
 </p>
 <p align="justify">
   Taking part in national and international projects with <strong>interdisciplinary environments and teams</strong> under an <strong>agile/scrum framework</strong> has provided me with an opportunity to learn about <strong>planning and tasks organization</strong>, <strong>decision making</strong>, and <strong>perseverance</strong> to achieve goals.
