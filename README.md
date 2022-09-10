@@ -166,11 +166,17 @@
       alt="Flyspray"
       src="https://img.shields.io/badge/-Flyspray-0052CC?style=for-the-badge&logo=jira&logoColor=white"
   /></a>
-  <a href="https://slack.com/intl/es-es/"
+  <a href="https://discord.com/"
     ><img
       title="Slack"
       alt="Slack"
       src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"
+  /></a>
+   <a href="https://slack.com/intl/es-es/"
+    ><img
+      title="Discord"
+      alt="Discord"
+      src="https://img.shields.io/badge/-Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"
   /></a>
   <a href="https://zoom.us/"
     ><img
