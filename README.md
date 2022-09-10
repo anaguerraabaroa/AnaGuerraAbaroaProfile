@@ -257,7 +257,6 @@
       src="https://img.shields.io/badge/-Perseverance-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"
   /></a>
 </div>
-<br>
 <h4 align="justify">&lt;Learning/&gt;</h4>
 <div align="justify">
   <a href="https://jestjs.io/"
