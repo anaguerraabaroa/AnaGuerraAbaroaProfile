@@ -353,7 +353,7 @@
   /></a>
 </div>
 <br>
-<h2 align="justify">&lt;Get in touch/&gt;</h2>
+/*<h2 align="justify">&lt;Get in touch/&gt;</h2>
 <div align="left">
   <a href="mailto:ana.guerra.abaroa@gmail.com"
     ><img
@@ -373,4 +373,4 @@
       alt="Twitter"
       src="https://img.shields.io/badge/-Twitter-D4C6F5?style=for-the-badge&logo=twitter&logoColor=5D4B85"
   /></a>
-</div>
+</div>*/
