@@ -352,25 +352,3 @@
       src="https://img.shields.io/badge/-TDD_Login_Form-D4C6F5?style=for-the-badge&logo=testing-library&logoColor=5D4B85"
   /></a>
 </div>
-<br>
-/*<h2 align="justify">&lt;Get in touch/&gt;</h2>
-<div align="left">
-  <a href="mailto:ana.guerra.abaroa@gmail.com"
-    ><img
-      title="Gmail"
-      alt="Gmail"
-      src="https://img.shields.io/badge/-Gmail-C3FADF?style=for-the-badge&logo=gmail&logoColor=5D4B85"
-  /></a>
-  <a href="https://www.linkedin.com/in/anaguerraabaroa/"
-    ><img
-      title="Linkedin"
-      alt="Linkedin"
-      src="https://img.shields.io/badge/-Linkedin-FDFF9B?style=for-the-badge&logo=linkedin&logoColor=5D4B85"
-  /></a>
-  <a href="https://twitter.com/anaguerraabaroa/"
-    ><img
-      title="Twitter"
-      alt="Twitter"
-      src="https://img.shields.io/badge/-Twitter-D4C6F5?style=for-the-badge&logo=twitter&logoColor=5D4B85"
-  /></a>
-</div>*/
