@@ -321,18 +321,6 @@
       alt="Profile Cards Refactor"
       src="https://img.shields.io/badge/Profile_Cards_Refactor-C3FADF?style=for-the-badge&logo=react&logoColor=5D4B85"
   /></a>
-  <a href="https://github.com/anaguerraabaroa/react-codeflix-movies-search"
-    ><img
-      title="Codeflix Movies Search"
-      alt="Codeflix Movies Search"
-      src="https://img.shields.io/badge/Codeflix_Movies_Search-FDFF9B?style=for-the-badge&logo=react&logoColor=5D4B85"
-  /></a>
-     <a href="https://github.com/anaguerraabaroa/tasks-list"
-    ><img
-      title="Tasks List"
-      alt="Tasks List"
-      src="https://img.shields.io/badge/Tasks_List-D4C6F5?style=for-the-badge&logo=react&logoColor=5D4B85"
-  /></a>
   <a href="https://github.com/anaguerraabaroa/react-tdd-form"
     ><img
       title="TDD Form with API Request"
