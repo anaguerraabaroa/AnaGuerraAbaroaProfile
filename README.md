@@ -325,13 +325,13 @@
     ><img
       title="TDD Form with API Request"
       alt="TDD Form with API Request"
-      src="https://img.shields.io/badge/-TDD_Form_with_API_Request-D4C6F5?style=for-the-badge&logo=testing-library&logoColor=5D4B85"
+      src="https://img.shields.io/badge/-TDD_Form_with_API_Request-FDFF9B?style=for-the-badge&logo=testing-library&logoColor=5D4B85"
   /></a>
     <a href="https://github.com/anaguerraabaroa/react-tdd-search-form"
     ><img
       title="TDD Search Form"
       alt="TDD Search Form"
-      src="https://img.shields.io/badge/-TDD_Search_Form-FDFF9B?style=for-the-badge&logo=testing-library&logoColor=5D4B85"
+      src="https://img.shields.io/badge/-TDD_Search_Form-D4C6F5?style=for-the-badge&logo=testing-library&logoColor=5D4B85"
   /></a>
         <a href="https://github.com/anaguerraabaroa/react-tdd-login-form"
     ><img
